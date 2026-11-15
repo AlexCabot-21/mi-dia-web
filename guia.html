@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Probar Mi Día</title>
+<link rel="icon" type="image/png" href="app/favicon.png">
+<style>
+  :root { --ink:#1d2321; --muted:#5f6b67; --green:#21995f; --greenSoft:#e3f4ea;
+          --coral:#e8604c; --coralSoft:#fde8e5; --bg:#f4f7f5; --card:#fff; --line:#dfe6e2; }
+  @media (prefers-color-scheme: dark) {
+    :root { --ink:#eef2f0; --muted:#a8b3ae; --green:#4cc98b; --greenSoft:#1d3328;
+            --coral:#f08070; --coralSoft:#3a2420; --bg:#141816; --card:#1e2421; --line:#2e3833; }
+  }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink);
+         font:17px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+  main { max-width:620px; margin:0 auto; padding:28px 16px 56px; }
+  header { text-align:center; margin-bottom:20px; }
+  header img { width:84px; height:84px; border-radius:20px; }
+  h1 { font-size:30px; line-height:1.15; margin:12px 0 6px; }
+  h2 { font-size:21px; margin:30px 0 10px; }
+  .muted { color:var(--muted); }
+  .card { background:var(--card); border-radius:18px; padding:16px 18px; margin:10px 0; }
+  .soft { background:var(--greenSoft); }
+  .warn { background:var(--coralSoft); }
+  .btn { display:block; text-align:center; background:var(--green); color:#fff; text-decoration:none;
+         font-weight:800; padding:15px; border-radius:16px; margin:14px 0 4px; font-size:18px; }
+  ol, ul { padding-left:22px; margin:6px 0; }
+  li { margin:6px 0; }
+  .tabs { display:flex; gap:6px; margin-bottom:10px; }
+  .tabs button { flex:1; font:inherit; font-weight:700; padding:9px; border-radius:12px;
+                 border:2px solid var(--line); background:var(--card); color:var(--ink); }
+  .tabs button[aria-selected="true"] { border-color:var(--green); background:var(--greenSoft); color:var(--green); }
+  .check { display:flex; gap:12px; align-items:flex-start; padding:10px 0; border-top:1px solid var(--line); cursor:pointer; }
+  .check:first-of-type { border-top:0; }
+  .check input { width:22px; height:22px; margin-top:2px; accent-color:var(--green); flex:none; }
+  .check b { display:block; }
+  .check span { color:var(--muted); font-size:15px; }
+  .check input:checked + div b { text-decoration:line-through; color:var(--muted); }
+  #progreso { font-weight:800; color:var(--green); }
+  footer { margin-top:36px; text-align:center; font-size:14px; }
+  a { color:var(--green); }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <img src="app/icons/Icon-192.png" alt="">
+    <h1>Gracias por probar Mi Día</h1>
+    <p class="muted">Tu dieta, tu entreno y tu compra en un solo sitio. Es una versión de prueba: tu opinión decide cómo sigue.</p>
+  </header>
+
+  <h2>1. Instálala (1 minuto)</h2>
+  <div class="tabs" role="tablist">
+    <button role="tab" aria-selected="true" data-tab="iphone">iPhone</button>
+    <button role="tab" aria-selected="false" data-tab="android">Android</button>
+  </div>
+  <div class="card" id="iphone">
+    <ol>
+      <li>Abre el enlace de abajo <b>en Safari</b> (no desde WhatsApp ni Instagram).</li>
+      <li>Toca el botón <b>Compartir</b> (el cuadrado con la flecha hacia arriba).</li>
+      <li>Baja y elige <b>Añadir a pantalla de inicio</b> → <b>Añadir</b>.</li>
+      <li>Ábrela siempre desde el icono de la mascota 🍅, no desde Safari.</li>
+    </ol>
+  </div>
+  <div class="card" id="android" hidden>
+    <ol>
+      <li>Abre el enlace de abajo <b>en Chrome</b>.</li>
+      <li>Toca el menú <b>⋮</b> de arriba a la derecha.</li>
+      <li>Elige <b>Añadir a pantalla de inicio</b> (o <b>Instalar aplicación</b>).</li>
+      <li>Ábrela siempre desde el icono de la mascota 🍅.</li>
+    </ol>
+  </div>
+  <a class="btn" href="app/">Abrir Mi Día</a>
+  <p class="muted" style="text-align:center;font-size:14px">La primera vez tarda unos segundos en cargar.</p>
+
+  <h2>2. Tu primer día</h2>
+  <div class="card">
+    <p>Al abrirla te pide tus datos (edad, peso, altura, objetivo). Con eso calcula tus calorías y
+    <b>ajusta las raciones del menú a ti</b>. Tu plan empieza ese mismo día.</p>
+    <p>Después, en <b>Hoy</b> verás lo que toca comer y entrenar. No hace falta seguirlo al pie de la letra:
+    puedes cambiar cualquier comida por otra.</p>
+  </div>
+
+  <h2>3. Qué probar la primera semana</h2>
+  <p class="muted">Marca lo que vayas haciendo (se guarda en este móvil). <span id="progreso"></span></p>
+  <div class="card" id="lista">
+    <label class="check"><input type="checkbox" data-id="comidas"><div><b>Marca las comidas que haces</b><span>En Hoy, botón «Hecha». Intenta hacerlo varios días seguidos.</span></div></label>
+    <label class="check"><input type="checkbox" data-id="cambiar"><div><b>Cambia una comida</b><span>Toca una comida en Menú y elige otra, o apunta lo que comiste de verdad.</span></div></label>
+    <label class="check"><input type="checkbox" data-id="receta"><div><b>Cocina una receta</b><span>Ábrela, cambia las raciones (para 2, para 4…) y sigue los pasos.</span></div></label>
+    <label class="check"><input type="checkbox" data-id="compra"><div><b>Haz la compra con la lista</b><span>Pestaña Compra. Añade algo tuyo y tacha lo que metas en el carro.</span></div></label>
+    <label class="check"><input type="checkbox" data-id="entreno"><div><b>Haz un entreno guiado</b><span>Pestaña Entreno → Empezar. Te lleva ejercicio a ejercicio con los descansos.</span></div></label>
+    <label class="check"><input type="checkbox" data-id="caminar"><div><b>Sal a caminar con una ruta</b><span>En Hoy, «Caminar» → elige los km → Crear rutas. Deja que use tu ubicación.</span></div></label>
+    <label class="check"><input type="checkbox" data-id="peso"><div><b>Apunta tu peso y el agua</b><span>En Progreso y en Hoy.</span></div></label>
+    <label class="check"><input type="checkbox" data-id="resumen"><div><b>Mira el resumen de la semana</b><span>Al acabar los 7 días sale en Hoy, con tu nota y qué mejorar.</span></div></label>
+  </div>
+
+  <h2>4. Cuéntame qué tal</h2>
+  <div class="card soft">
+    <p>Cada vez que algo falle, no se entienda o eches algo de menos:
+    <b>Ajustes (la rueda de arriba en Hoy) → Enviar comentario</b>.
+    Si algo se ve mal, haz una captura y adjúntala. También vale un WhatsApp.</p>
+    <p>Lo que más me ayuda saber:</p>
+    <ul>
+      <li>¿Qué es lo que más has usado? ¿Y lo que nada?</li>
+      <li>¿Hubo algo que no supieras cómo hacer?</li>
+      <li>¿Las raciones y las calorías te parecen realistas para ti?</li>
+      <li>¿Qué cambiarías o añadirías?</li>
+      <li>Del 1 al 10, ¿la seguirías usando?</li>
+    </ul>
+  </div>
+
+  <h2>Lo que aún no tiene esta versión</h2>
+  <div class="card">
+    <ul>
+      <li>No manda recordatorios ni avisos.</li>
+      <li>No cuenta pasos, y la caminata solo se graba con la pantalla encendida.</li>
+      <li>La lista de la compra semanal está pensada para el menú completo: si tus raciones son más pequeñas, compra un poco menos.</li>
+    </ul>
+  </div>
+
+  <h2>Tus datos</h2>
+  <div class="card warn">
+    <p>Todo se guarda <b>solo en tu móvil</b>, dentro del navegador. Nadie más lo ve.
+    Si borras los datos de Safari o Chrome, se pierde: de vez en cuando haz una copia en
+    <b>Ajustes → Guardar copia</b>.</p>
+    <p class="muted" style="margin-bottom:0">Las calorías y los entrenos son orientativos y no sustituyen a un médico,
+    nutricionista o entrenador. Mi Día es para mayores de 16 años.</p>
+  </div>
+
+  <footer class="muted">
+    <a href="privacidad.html">Política de privacidad</a>
+  </footer>
+</main>
+<script>
+  // Pestañas iPhone / Android (elige la del móvil que abre la página).
+  const tabs = document.querySelectorAll('.tabs button');
+  function show(id) {
+    tabs.forEach(b => b.setAttribute('aria-selected', b.dataset.tab === id));
+    document.getElementById('iphone').hidden = id !== 'iphone';
+    document.getElementById('android').hidden = id !== 'android';
+  }
+  tabs.forEach(b => b.addEventListener('click', () => show(b.dataset.tab)));
+  if (/android/i.test(navigator.userAgent)) show('android');
+
+  // Lista de cosas por probar, recordada en este móvil.
+  const KEY = 'midia-guia';
+  let done = {};
+  try { done = JSON.parse(localStorage.getItem(KEY)) || {}; } catch (e) {}
+  const boxes = document.querySelectorAll('#lista input');
+  function update() {
+    const n = [...boxes].filter(b => b.checked).length;
+    document.getElementById('progreso').textContent =
+      n === boxes.length ? '¡Todo probado! 🎉' : n + ' de ' + boxes.length;
+  }
+  boxes.forEach(b => {
+    b.checked = !!done[b.dataset.id];
+    b.addEventListener('change', () => {
+      done[b.dataset.id] = b.checked;
+      try { localStorage.setItem(KEY, JSON.stringify(done)); } catch (e) {}
+      update();
+    });
+  });
+  update();
+</script>
+</body>
+</html>
