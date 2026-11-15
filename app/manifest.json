@@ -1,0 +1,18 @@
+{
+    "name": "Mi Día",
+    "short_name": "Mi Día",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#F4F7F5",
+    "theme_color": "#21995F",
+    "description": "Tu dieta, tu entreno y tu compra en un solo sitio.",
+    "orientation": "portrait-primary",
+    "lang": "es",
+    "prefer_related_applications": false,
+    "icons": [
+        {"src": "icons/Icon-192.png", "sizes": "192x192", "type": "image/png"},
+        {"src": "icons/Icon-512.png", "sizes": "512x512", "type": "image/png"},
+        {"src": "icons/Icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable"},
+        {"src": "icons/Icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+    ]
+}
