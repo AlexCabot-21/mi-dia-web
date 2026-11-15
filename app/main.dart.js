@@ -38785,7 +38785,7 @@ $S:2}
 A.b7g.prototype={
 $1(a){var s=A.eg().b
 s=s==null?null:s.canvasKitBaseUrl
-return(s==null?"https://www.gstatic.com/flutter-canvaskit/a804b261645ef8c13eb3d5c44a5c2fb0340c5539/":s)+a},
+return(s==null?"canvaskit/":s)+a},
 $S:34}
 A.ZO.prototype={
 gA(a){var s=this.a
@@ -123823,7 +123823,7 @@ FM(){var s=0,r=A.t(t.H),q=this,p
 var $async$FM=A.u(function(a,b){if(a===1)return A.p(b,r)
 for(;;)switch(s){case 0:p=t.N
 s=2
-return A.n(A.xY(A.Dk(null,null,"alexcabot21@gmail.com",null,null,A.bC1(A.am(["subject","Mi D\xeda 1.21.2 \xb7 comentario","body","\xbfQu\xe9 estabas haciendo?\n\n\xbfQu\xe9 ha pasado (o qu\xe9 esperabas)?\n\n---\nVersi\xf3n 1.21.2 (33) \xb7 semana "+(B.c.cV(A.cX(new A.b0(Date.now(),0,!1))/7)+1)+" del plan"],p,p)),null,"mailto",null),B.DI).fo(new A.b1x()),$async$FM)
+return A.n(A.xY(A.Dk(null,null,"alexcabot21@gmail.com",null,null,A.bC1(A.am(["subject","Mi D\xeda 1.21.3 \xb7 comentario","body","\xbfQu\xe9 estabas haciendo?\n\n\xbfQu\xe9 ha pasado (o qu\xe9 esperabas)?\n\n---\nVersi\xf3n 1.21.3 (34) \xb7 semana "+(B.c.cV(A.cX(new A.b0(Date.now(),0,!1))/7)+1)+" del plan"],p,p)),null,"mailto",null),B.DI).fo(new A.b1x()),$async$FM)
 case 2:if(!b&&q.c!=null)q.c.an(t.Pu).f.lU(B.aSx)
 return A.q(null,r)}})
 return A.r($async$FM,r)},
@@ -134393,7 +134393,7 @@ B.a0I=new A.EB(null,null,null,null,null,null,null)
 B.a0J=new A.EC(null,null,null,null,null,null)
 B.cH=new A.o(!0,B.a7,null,null,null,null,12,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.b5=new A.pf(2,"center")
-B.aZP=new A.ao("Mi D\xeda 1.21.2 (33) \xb7 todo se guarda en este navegador\nC\xe1lculos orientativos: no sustituyen a un profesional.",null,B.cH,B.b5,null,null,null,null,null,null)
+B.aZP=new A.ao("Mi D\xeda 1.21.3 (34) \xb7 todo se guarda en este navegador\nC\xe1lculos orientativos: no sustituyen a un profesional.",null,B.cH,B.b5,null,null,null,null,null,null)
 B.a0K=new A.lo(B.O,null,null,B.aZP,null)
 B.aF6=new A.ZY(null)
 B.a0L=new A.lo(B.O,null,null,B.aF6,null)
@@ -139720,7 +139720,7 @@ B.VZ=new A.oX(!1)
 B.W_=new A.oX(!0)
 B.aF2=new A.O(B.aGQ,[B.w5,B.w8,B.w6,B.kB,B.kC,B.w7,B.iH,B.iI,B.iI,B.iH,B.iL,B.iM,B.mX,B.mY,B.kH,B.kI,B.n0,B.n1,B.hp,B.hq,B.Cw,B.Cx,B.Cs,B.Ct,B.hp,B.hq,B.iJ,B.iK,B.Ch,B.Ci,B.wT,B.wU,B.AZ,B.VZ,B.W_,B.yK,B.tX,B.n2,B.n3,B.AK,B.vu,B.AS],A.ac("O<i,bJ>"))
 B.aGf={"User-Agent":0}
-B.tG=new A.O(B.aGf,["MiDia/1.21.2 (app de salud)"],t.w)
+B.tG=new A.O(B.aGf,["MiDia/1.21.3 (app de salud)"],t.w)
 B.aGt={BU:0,DD:1,FX:2,TP:3,YD:4,ZR:5}
 B.eL=new A.O(B.aGt,["MM","DE","FR","TL","YE","CD"],t.w)
 B.aHS=new A.K(458752)
