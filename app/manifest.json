@@ -1,6 +1,6 @@
 {
-    "name": "Mi Día",
-    "short_name": "Mi Día",
+    "name": "FrutiFit",
+    "short_name": "FrutiFit",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#F4F7F5",
