@@ -37393,7 +37393,7 @@ for(;;)switch(s){case 0:q=B.c.d9(A.cJ(new A.aD(Date.now(),0,!1))/7)
 p=b!=null?"Me va: "+b+"\n\n\xbfQu\xe9 es lo que m\xe1s te gusta?\n\n\xbfQu\xe9 cambiar\xedas o echas de menos?\n\n":"\xbfQu\xe9 estabas haciendo?\n\n\xbfQu\xe9 ha pasado (o qu\xe9 esperabas)?\n\n"
 o=t.N
 s=2
-return A.p(A.uK(A.yY(null,null,"apps.aleexx@icloud.com",null,null,A.bva(A.au(["subject","FrutiFit 1.31.1 \xb7 comentario","body",p+"---\nVersi\xf3n 1.31.1 (52) \xb7 semana "+(q+1)+" del plan"],o,o)),null,"mailto",null),B.yO).fM(new A.bgX()),$async$anh)
+return A.p(A.uK(A.yY(null,null,"apps.aleexx@icloud.com",null,null,A.bva(A.au(["subject","FrutiFit 1.31.2 \xb7 comentario","body",p+"---\nVersi\xf3n 1.31.2 (53) \xb7 semana "+(q+1)+" del plan"],o,o)),null,"mailto",null),B.yO).fM(new A.bgX()),$async$anh)
 case 2:if(!d&&a.e!=null)a.ao(t.Q).f.j6(B.b7s)
 return A.r(null,r)}})
 return A.t($async$anh,r)},
@@ -37405,7 +37405,7 @@ o=B.d.av("\u2606",5-b)
 n=c.length===0?"":c+"\n\n"
 m=t.N
 s=2
-return A.p(A.uK(A.yY(null,null,"apps.aleexx@icloud.com",null,null,A.bva(A.au(["subject","FrutiFit 1.31.1 \xb7 valoraci\xf3n "+q+"/5","body",p+o+" ("+q+" de 5)\n\n"+n+"---\nVersi\xf3n 1.31.1 (52)"],m,m)),null,"mailto",null),B.yO).fM(new A.bh0()),$async$bh_)
+return A.p(A.uK(A.yY(null,null,"apps.aleexx@icloud.com",null,null,A.bva(A.au(["subject","FrutiFit 1.31.2 \xb7 valoraci\xf3n "+q+"/5","body",p+o+" ("+q+" de 5)\n\n"+n+"---\nVersi\xf3n 1.31.2 (53)"],m,m)),null,"mailto",null),B.yO).fM(new A.bh0()),$async$bh_)
 case 2:if(!e&&a.e!=null)a.ao(t.Q).f.j6(B.b7q)
 return A.r(null,r)}})
 return A.t($async$bh_,r)},
@@ -131973,7 +131973,7 @@ p.push(new A.az(A.a1(A.a([new A.ER(B.ih,"Calor\xedas",h,""+d.rx+" kcal",new A.b8
 p.push(B.Q)
 p.push(B.b3T)
 p.push(B.z)
-p.push(new A.az(A.b9x(B.F3,d.gajp(),"El tomate te anima cuando completas cosas","Animaciones y \xe1nimos",$.arE),B.i,h,B.jv,h,h))
+p.push(new A.az(A.b9x(B.F3,d.gajp(),"Tu mascota te anima cuando completas cosas","Animaciones y \xe1nimos",$.arE),B.i,h,B.jv,h,h))
 p.push(B.z)
 p.push(new A.az(A.b9x(B.adN,d.gak3(),"Al completar cosas y en el descanso del entreno. Con el "+A.bvQ()+" en silencio se callan, menos los avisos del entreno guiado (sin cortar tu m\xfasica).","Sonidos",$.aNc),B.i,h,B.jv,h,h))
 p.push(B.Q)
@@ -132006,7 +132006,7 @@ p.push(new A.az(A.a1(A.a([B.bev,B.U,new A.bW("Enviar comentario",B.adi,new A.b84
 p.push(B.b7f)
 p.push(new A.bW("Borrar todo lo apuntado",B.on,g.gaJL(),B.u,!0,h))
 p.push(B.Q)
-p.push(A.eD(A.m("FrutiFit 1.31.1 (52) \xb7 todo se guarda en este navegador\nC\xe1lculos orientativos: no sustituyen a un profesional.",h,h,h,A.c4(h,h,B.Z,h,h,h,h,h,h,h,h,12,h,h,h,h,h,!0,h,h,h,h,h,h,h,h),B.aQ,h,h),h,h))
+p.push(A.eD(A.m("FrutiFit 1.31.2 (53) \xb7 todo se guarda en este navegador\nC\xe1lculos orientativos: no sustituyen a un profesional.",h,h,h,A.c4(h,h,B.Z,h,h,h,h,h,h,h,h,12,h,h,h,h,h,!0,h,h,h,h,h,h,h,h),B.aQ,h,h),h,h))
 return A.eV(e,h,A.dn(p,h,B.dv,!1),h,h)},
 $S:41}
 A.b7Z.prototype={
@@ -150208,7 +150208,7 @@ B.YL=new A.pT(!1)
 B.YM=new A.pT(!0)
 B.aQZ=new A.R(B.aSQ,[B.xp,B.xs,B.xq,B.lu,B.lv,B.xr,B.jA,B.jB,B.jB,B.jA,B.jE,B.jF,B.o6,B.o7,B.lC,B.lD,B.oa,B.ob,B.ic,B.id,B.EF,B.EG,B.EB,B.EC,B.ic,B.id,B.jC,B.jD,B.Eo,B.Ep,B.yb,B.yc,B.CU,B.YL,B.YM,B.Av,B.vf,B.oc,B.od,B.CH,B.wP,B.CO],A.af("R<h,bO>"))
 B.aSe={"User-Agent":0}
-B.uX=new A.R(B.aSe,["MiDia/1.31.1 (app de salud)"],t.w)
+B.uX=new A.R(B.aSe,["MiDia/1.31.2 (app de salud)"],t.w)
 B.aSs={BU:0,DD:1,FX:2,TP:3,YD:4,ZR:5}
 B.fv=new A.R(B.aSs,["MM","DE","FR","TL","YE","CD"],t.w)
 B.aU_=new A.L(458752)
