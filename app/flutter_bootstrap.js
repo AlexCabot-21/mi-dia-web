@@ -52,6 +52,14 @@ _flutter.loader.load({
 });
 
 if ('serviceWorker' in navigator) {
+  // Al publicar una versión nueva, sw.js la instala y toma el control: se
+  // recarga una vez para verla ya (si no, salía la vieja hasta reabrir).
+  var habia = !!navigator.serviceWorker.controller, recargada = false;
+  navigator.serviceWorker.addEventListener('controllerchange', function () {
+    if (!habia || recargada) return;
+    recargada = true;
+    location.reload();
+  });
   window.addEventListener('load', function () {
     navigator.serviceWorker.register('sw.js').catch(function (e) { console.warn('sw', e); });
   });
