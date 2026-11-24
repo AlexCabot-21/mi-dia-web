@@ -61,6 +61,14 @@ if ('serviceWorker' in navigator) {
     location.reload();
   });
   window.addEventListener('load', function () {
-    navigator.serviceWorker.register('sw.js').catch(function (e) { console.warn('sw', e); });
+    navigator.serviceWorker.register('sw.js', { updateViaCache: 'none' }).then(function (reg) {
+      // Si la web se queda abierta (o en la pantalla de inicio), mira si hay
+      // versión nueva cada vez que vuelves a ella y cada 30 minutos.
+      var mirar = function () { reg.update().catch(function () {}); };
+      document.addEventListener('visibilitychange', function () {
+        if (document.visibilityState === 'visible') mirar();
+      });
+      setInterval(mirar, 30 * 60 * 1000);
+    }).catch(function (e) { console.warn('sw', e); });
   });
 }

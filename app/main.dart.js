@@ -38997,7 +38997,7 @@ o=B.c.dX(A.cS(A.ex($.ci()),new A.ap(o,0,!1))/7)
 q=b!=null?"Me va: "+b+"\n\n\xbfQu\xe9 es lo que m\xe1s te gusta?\n\n\xbfQu\xe9 cambiar\xedas o echas de menos?\n\n":"\xbfQu\xe9 estabas haciendo?\n\n\xbfQu\xe9 ha pasado (o qu\xe9 esperabas)?\n\n"
 p=t.N
 s=2
-return A.o(A.t4(A.Aw(null,null,"apps.aleexx@icloud.com",null,null,A.bI7(A.aE(["subject","FrutiFit 1.64.1 \xb7 comentario","body",q+"---\nVersi\xf3n 1.64.1 (85) \xb7 semana "+(o+1)+" del plan"],p,p)),null,"mailto",null),B.AA).h4(new A.bsX()),$async$aqN)
+return A.o(A.t4(A.Aw(null,null,"apps.aleexx@icloud.com",null,null,A.bI7(A.aE(["subject","FrutiFit 1.64.2 \xb7 comentario","body",q+"---\nVersi\xf3n 1.64.2 (86) \xb7 semana "+(o+1)+" del plan"],p,p)),null,"mailto",null),B.AA).h4(new A.bsX()),$async$aqN)
 case 2:if(!d&&a.e!=null)a.ah(t.J).f.h2(B.bq9)
 return A.v(null,r)}})
 return A.w($async$aqN,r)},
@@ -39009,7 +39009,7 @@ o=B.d.aw("\u2606",5-b)
 n=c.length===0?"":c+"\n\n"
 m=t.N
 s=2
-return A.o(A.t4(A.Aw(null,null,"apps.aleexx@icloud.com",null,null,A.bI7(A.aE(["subject","FrutiFit 1.64.1 \xb7 valoraci\xf3n "+q+"/5","body",p+o+" ("+q+" de 5)\n\n"+n+"---\nVersi\xf3n 1.64.1 (85)"],m,m)),null,"mailto",null),B.AA).h4(new A.bt0()),$async$bt_)
+return A.o(A.t4(A.Aw(null,null,"apps.aleexx@icloud.com",null,null,A.bI7(A.aE(["subject","FrutiFit 1.64.2 \xb7 valoraci\xf3n "+q+"/5","body",p+o+" ("+q+" de 5)\n\n"+n+"---\nVersi\xf3n 1.64.2 (86)"],m,m)),null,"mailto",null),B.AA).h4(new A.bt0()),$async$bt_)
 case 2:if(!e&&a.e!=null)a.ah(t.J).f.h2(B.bq6)
 return A.v(null,r)}})
 return A.w($async$bt_,r)},
@@ -134368,7 +134368,7 @@ s.x=B.a8},
 $S:0}
 A.b0e.prototype={
 $1(a){var s=null,r=this.b,q=r+1,p=this.a,o=A.i("Paso "+q+": "+J.dJ(p.a.c.f,r),s,s,s,s,s,s,s),n=A.a([A.c5(B.a2B,s,s,new A.b0c(p,a),s,s)],t.p)
-if(q<J.bQ(p.a.c.f))n.push(A.pX(B.byt,new A.b0d(p,a,r),s))
+if(q<J.bQ(p.a.c.f))n.push(A.pX(B.bys,new A.b0d(p,a,r),s))
 return A.hS(n,o,B.ajy,B.bxY)},
 $S:27}
 A.b0c.prototype={
@@ -134521,7 +134521,7 @@ A.ais.prototype={
 q(a){var s,r,q=this,p=null,o=$.z().vW(q.d,q.c),n=q.e,m=n.a,l=A.i(m.toUpperCase(),p,p,p,A.aW(p,p,$.P.a,p,p,p,p,p,p,p,p,12,p,p,B.S,p,p,!0,p,0.6,p,p,p,p,p,p),p,p,p),k=A.i(n.b,p,p,p,A.aW(p,p,p,p,o?B.lC:p,p,p,p,p,p,p,16,p,p,B.S,p,p,!0,p,p,p,p,p,p,p,p),p,p,p),j=t.p
 m=A.a([A.a3(A.a([A.ah(A.V(A.a([l,B.bT,k,A.i(o?"Omitida":""+n.d+" kcal \xb7 "+A.f4(n.e)+" g prote\xedna",p,p,p,B.aJ,p,p,p)],j),B.o,B.f,B.h,0,B.l),1),A.cp(p,p,p,A.aX(B.j3,$.P.a,p,p),p,p,new A.b8O(q,a),p,p,p,"Cambiar "+m.toLowerCase(),p)],j),B.k,B.f,B.h,0,p,p)],j)
 l=q.f
-if(l.length!==0){k=A.a([B.a3,B.bzG,B.aH],j)
+if(l.length!==0){k=A.a([B.a3,B.bzF,B.aH],j)
 for(j=l.length,s=0;s<l.length;l.length===j||(0,A.q)(l),++s){r=l[s]
 k.push(new A.amP(r,n,new A.b8P(q,r,a),p))}B.b.E(m,k)}return new A.ao(A.V(m,B.o,B.f,B.h,0,B.l),B.i,p,B.cV,p,p)}}
 A.b8O.prototype={
@@ -134569,7 +134569,7 @@ $.z().JE(r.c,q.a,p)
 this.c.ah(t.J).f.h2(A.ij(s,s,s,s,s,B.E,s,A.i(p.b+" a\xf1adido a "+r.e[q.a].a.toLowerCase()+".",s,s,s,s,s,s,s),s,B.b2,s,s,s,s,s,s,!1,s,s,s))},
 $S:0}
 A.adF.prototype={
-q(a){var s=null,r=$.z(),q=A.a([A.aU0(B.a1,r.gamn(),B.bA7,B.bAi,r.p4)],t.p)
+q(a){var s=null,r=$.z(),q=A.a([A.aU0(B.a1,r.gamn(),B.bA6,B.bAh,r.p4)],t.p)
 r=r.R8
 if(r!=null)q.push(A.i(r,s,s,s,B.ew,s,s,s))
 return new A.ao(A.V(q,B.o,B.f,B.h,0,B.l),B.i,s,B.N,s,s)}}
@@ -134835,7 +134835,7 @@ h=a.dy?s/p:0
 g=A.a([],n)
 if(!a.dy)g.push(new A.ao(A.V(A.a([A.i("\ud83d\udd25 "+a1.a,a0,a0,a0,B.eU,a0,a0,a0),B.aH,A.i("Unos "+B.c.f1(a1.ga_S()/60)+" minutos para preparar el cuerpo y no lesionarte. La app cuenta cada movimiento y te deja 8 segundos para colocarte antes del siguiente.",a0,a0,a0,B.xj,a0,a0,a0)],n),B.o,B.f,B.h,0,B.l),B.bf,a0,B.N,a0,a0))
 else{f=A.a([],n)
-if(a.fr)B.b.E(f,A.a([B.byZ,B.w],n))
+if(a.fr)B.b.E(f,A.a([B.byY,B.w],n))
 e=q.a
 f.push(new A.y4(e,170,a0))
 f.push(B.F)
@@ -134864,7 +134864,7 @@ f.push(new A.a4(B.z7,A.a3(e,B.o,B.f,B.h,0,a0,a0),a0))}a1=a1.c
 if(a1!=null)B.b.E(f,A.a([B.w,A.i(a1,a0,a0,a0,B.a2i,a0,a0,a0)],n))
 g.push(new A.ao(A.V(f,B.o,B.f,B.h,0,B.l),B.i,a0,B.N,a0,a0))
 a1=A.a([j,B.F,new A.n_(h,B.q,a0),B.K,A.ah(A.cR(g,a0,a0,a0,!1),1),B.F],n)
-if(!a.dy)B.b.E(a1,A.a([new A.bH("Empezar calentamiento",B.hz,a.gaPp(),B.q,!1,a0),A.c5(B.byk,a0,a0,i,a0,A.fd(a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,B.W,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,B.ay,a0))],n))
+if(!a.dy)B.b.E(a1,A.a([new A.bH("Empezar calentamiento",B.hz,a.gaPp(),B.q,!1,a0),A.c5(B.byj,a0,a0,i,a0,A.fd(a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,B.W,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,B.ay,a0))],n))
 else{s=a.fr
 if(s)r="Empezar ya"
 else r=k?"Ir al entreno":"Siguiente movimiento"
@@ -134909,7 +134909,7 @@ if(k){k=f.c
 k.toString
 k=A.W(k).aet(B.I)
 j=f.d
-m.push(new A.ao(new A.p0(k,A.bvL(A.a([new A.JP(q,e),B.F,new A.JQ(q,e)],o),B.G6,B.q,e,e,B.q,new A.e2("how-"+j,t.kK),e,e,e,B.byR),e),B.i,e,B.Ge,e,e))}r=A.a([r,B.F,new A.n_(n,B.q,e),B.K,A.ah(A.cR(m,e,e,e,!1),1),B.F],o)
+m.push(new A.ao(new A.p0(k,A.bvL(A.a([new A.JP(q,e),B.F,new A.JQ(q,e)],o),B.G6,B.q,e,e,B.q,new A.e2("how-"+j,t.kK),e,e,e,B.byQ),e),B.i,e,B.Ge,e,e))}r=A.a([r,B.F,new A.n_(n,B.q,e),B.K,A.ah(A.cR(m,e,e,e,!1),1),B.F],o)
 if(f.f!=null||f.r!=null)r.push(new A.bH("Saltar descanso",B.H4,f.gaOO(),B.q,!0,e))
 else if(f.id!=null)r.push(new A.bH("Terminar serie ya",B.bB,f.ga3k(),B.q,!0,e))
 else{o=s.ew(f.a.c).b[f.d]
@@ -135063,11 +135063,11 @@ avv(){var s,r,q,p,o,n,m,l=this,k=null,j=l.y?B.j:l.aMo(),i=l.at,h=A.l(i).i("bB<2>
 h=t.p
 i=A.a3(A.a([A.ah(new A.GK("Minutos",""+B.e.bA(new A.ap(Date.now(),0,!1).eO(l.as).a,6e7),k),1),B.ah,A.ah(new A.GK("Series",""+g,k),1),B.ah,A.ah(new A.GK("Kilos movidos",B.e.j(B.c.O(f)),k),1)],h),B.k,B.f,B.h,0,k,k)
 s=$.P
-r=A.a([A.i("\xbfBatido de prote\xedna?",k,k,k,A.aW(k,k,s.a,k,k,k,k,k,k,k,k,17,k,k,B.ad,k,k,!0,k,k,k,k,k,k,k,k),k,k,k),B.al,B.byL,B.a3],h)
+r=A.a([A.i("\xbfBatido de prote\xedna?",k,k,k,A.aW(k,k,s.a,k,k,k,k,k,k,k,k,17,k,k,B.ad,k,k,!0,k,k,k,k,k,k,k,k),k,k,k),B.al,B.byK,B.a3],h)
 if(l.z){q=$.P.a
 r.push(A.a3(A.a([A.aX(B.cs,q,k,k),A.bI(k,k,8),A.i("Apuntado en las comidas de hoy",k,k,k,A.aW(k,k,q,k,k,k,k,k,k,k,k,k,k,k,B.S,k,k,!0,k,k,k,k,k,k,k,k),k,k,k)],h),B.k,B.f,B.h,0,k,k))}else r.push(new A.bH("Me lo he tomado",B.mM,new A.b5x(l),k,!1,k))
-i=A.a([B.F,B.a7W,B.K,B.bAj,B.w,B.byx,B.cN,i,B.K,new A.ao(A.V(r,B.o,B.f,B.h,0,B.l),s.c,k,B.N,k,k)],h)
-if(!l.y&&l.abw().length!==0){s=A.a([B.byq,B.bT,B.bzj],h)
+i=A.a([B.F,B.a7W,B.K,B.bAi,B.w,B.byw,B.cN,i,B.K,new A.ao(A.V(r,B.o,B.f,B.h,0,B.l),s.c,k,B.N,k,k)],h)
+if(!l.y&&l.abw().length!==0){s=A.a([B.byp,B.bT,B.bzi],h)
 for(r=l.abw(),q=r.length,p=l.cx,o=0;o<r.length;r.length===q||(0,A.q)(r),++o){n=r[o]
 m=$.z().ew(l.a.c).b[n]
 m=$.hP().h(0,m.a)
@@ -135207,7 +135207,7 @@ r.dy=!1
 r.fx=null}},
 $S:0}
 A.b66.prototype={
-$1(a){var s,r,q,p,o,n,m=null,l=A.ay(a,m,t.l).w,k=this.a,j=A.a([A.i(k.a.c.ged(),m,m,m,B.eU,m,m,m),B.al,B.bzW,B.F],t.p)
+$1(a){var s,r,q,p,o,n,m=null,l=A.ay(a,m,t.l).w,k=this.a,j=A.a([A.i(k.a.c.ged(),m,m,m,B.eU,m,m,m),B.al,B.bzV,B.F],t.p)
 for(s=this.b,r=k.at,q=0;q<s.length;q=p){p=q+1
 o=s[q]
 n=r.h(0,q)
@@ -135534,7 +135534,7 @@ s=$.P
 r=A.cp(p,p,p,B.HL,p,p,q.gav2(),p,p,p,"Aplicar ingredientes",p)
 r=A.eA(p,B.j,!1,p,!0,B.E,p,A.eQ(),q.r,p,p,p,p,p,2,A.ic(p,new A.ew(4,A.bf(14),B.L),p,p,p,p,p,p,!0,p,p,p,p,p,p,s.d,!0,p,p,p,p,p,p,p,p,p,p,p,p,p,p,"at\xfan, champi\xf1ones",p,p,p,p,p,p,p,p,"Sin estos ingredientes",!0,!0,!1,p,p,p,p,p,p,p,p,r,p,p,p,p,p),B.a_,!0,p,!0,p,!1,p,B.b5,p,p,p,p,p,p,p,p,1,p,p,!1,"\u2022",p,p,p,new A.b9c(q),p,!1,new A.b9d(),p,!1,p,!0,p,B.bm,p,p,p,p,p,p,p,p,p,p,p,p,!0,B.am,p,B.db,p,B.jG,p,p)
 s=q.d
-return new A.ao(A.V(A.a([B.byh,B.w,o,B.F,r,A.aU0(B.a1,new A.b9e(q),p,B.bxu,s.b),A.aU0(B.a1,new A.b9f(q),p,B.bxF,s.c),A.aU0(B.a1,new A.b9g(q),p,B.bzR,q.e)],n),B.o,B.f,B.h,0,B.l),B.i,p,B.N,p,p)},
+return new A.ao(A.V(A.a([B.byh,B.w,o,B.F,r,A.aU0(B.a1,new A.b9e(q),p,B.bxu,s.b),A.aU0(B.a1,new A.b9f(q),p,B.bxF,s.c),A.aU0(B.a1,new A.b9g(q),p,B.bzQ,q.e)],n),B.o,B.f,B.h,0,B.l),B.i,p,B.N,p,p)},
 ay_(a){var s,r,q,p,o,n=this,m=null,l=n.gfa()[a],k=$.z(),j=l.afZ(k.aB,k.t)
 k=l.a
 k=A.ah(A.i(A.mG(A.cZ("EEEE","es").da(k))+" "+k.gW(),m,m,m,B.ha,m,m,m),1)
@@ -135558,7 +135558,7 @@ s=A.a([A.i("Te faltan "+B.b.bK(s," y ")+". Puedes a\xf1adir:",m,m,m,B.aJ,m,m,m),
 for(r=i.length,q=0;q<i.length;i.length===r||(0,A.q)(i),++q){p=i[q]
 o=new A.b5(10,10)
 s.push(A.de(!1,new A.cC(o,o,o,o),!0,new A.a4(B.iU,A.a3(A.a([new A.cm(1,B.ao,A.i(p.b+" \xb7 "+p.w+" kcal \xb7 "+A.f4(p.x)+" g",m,m,m,B.a2w,m,m,m),m),B.aX,A.aX(B.j2,$.P.a,m,m)],j),B.k,B.f,B.h,0,m,m),m),m,!0,m,m,m,m,m,m,m,m,m,m,m,new A.b94(n,a,l,p),m,m,m,m,m,m,m))}s.push(B.aH)
-B.b.E(k,s)}k.push(A.Mw(B.j5,B.bzA,new A.b95(n,a),m))
+B.b.E(k,s)}k.push(A.Mw(B.j5,B.bzz,new A.b95(n,a),m))
 return new A.a4(B.abX,A.V(k,B.cd,B.f,B.h,0,B.l),m)},
 aP8(a,b){var s,r=null,q=this.gfa()[a].b[b],p=q.d,o=A.bf(10),n=p==null,m=n?r:new A.b9x(this,p),l=A.i(q.b.toUpperCase(),r,r,r,A.aW(r,r,$.P.a,r,r,r,r,r,r,r,r,11,r,r,B.S,r,r,!0,r,0.5,r,r,r,r,r,r),r,r,r),k=A.i(q.gd2(),r,r,r,B.lF,r,r,r),j=A.a([""+q.gadE()+" kcal \xb7 "+A.n(q.gadF())+" g"],t.s)
 if(!n&&p.c>0)j.push(""+p.c+" min")
@@ -135611,7 +135611,7 @@ p.w=o
 r.w.n(0,new A.T(r.gfa()[q].a,p.a),o)},
 $S:0}
 A.b93.prototype={
-$1(a){var s,r,q,p,o=null,n=A.a([B.byY,B.w],t.p)
+$1(a){var s,r,q,p,o=null,n=A.a([B.byX,B.w],t.p)
 for(s=this.a.b,r=0;r<s.length;++r){q=s[r]
 p=q.f
 if(p!=="Omitida"&&p!=="D\xeda libre"){p=A.i(q.b,o,o,o,B.ay,o,o,o)
@@ -135753,7 +135753,7 @@ $0(){return this.a.aQV(this.b,this.c)},
 $S:0}
 A.a7d.prototype={
 q(a){var s=null
-return A.ez(A.fE(s,s,s,B.byK),s,B.bHa,s,s)}}
+return A.ez(A.fE(s,s,s,B.byJ),s,B.bHa,s,s)}}
 A.T7.prototype={
 a2(){var s=Date.now(),r=new A.ap(Date.now(),0,!1)
 return new A.T8(A.yv(new A.ap(s,0,!1))-1,A.aw(r.gX(),r.gV(),r.gW(),0,0,0,0))}}
@@ -135817,7 +135817,7 @@ n=$.z()
 if(A.kQ(n.aB)!==1)B.b.E(o,A.a([A.i("Tus raciones son el "+B.c.O(A.kQ(n.aB)*100)+" % de las del men\xfa, para tus "+n.aB+" kcal. Las calor\xedas y las recetas que abres desde aqu\xed ya est\xe1n ajustadas. Cada d\xeda del men\xfa es algo distinto: unos d\xedas pasa un poco de tu objetivo y otros se queda corto, pero de media cuadra.",f,f,f,B.bvf,f,f,f),B.aH],l))
 o.push(A.i("Pasta y arroz: "+A.byt(90)+" g en crudo. Carne o pescado: "+A.byt(150)+"-"+A.byt(180)+" g (la palma de la mano).",f,f,f,B.xf,f,f,f))
 o.push(B.aH)
-o.push(B.bzc)
+o.push(B.bzb)
 d.push(new A.ao(A.V(o,B.o,B.f,B.h,0,B.l),c.c,f,B.N,f,f))
 B.b.E(m,d)}return A.cR(m,f,B.acl,f,!1)}}
 A.b9G.prototype={
@@ -135897,7 +135897,7 @@ return A.v(null,r)}})
 return A.w($async$Il,r)},
 q(a){var s=this,r=null,q=s.c,p=A.bDw(A.a([q],t.gQ)).length,o=t.p,n=A.a([],o)
 if(p!==0)n.push(new A.bH("Planificar este d\xeda",B.mH,new A.b1E(s,a),r,!1,r))
-p=A.a([A.hh(B.ajA,B.byD,new A.b1F(s,a),r)],o)
+p=A.a([A.hh(B.ajA,B.byC,new A.b1F(s,a),r)],o)
 if($.z().aWv(q))p.push(A.hh(B.ajE,B.a2y,new A.b1G(s,a),r))
 n.push(A.cF(B.xD,p,B.az,0,8))
 return A.V(n,B.cd,B.f,B.h,0,B.l)}}
@@ -136171,7 +136171,7 @@ a1=A.fE(a,a,a,A.i(a1,a,a,a,a,a,a,a))
 s=t.p
 r=A.a([],s)
 if(b.a.c)B.b.E(r,A.a([B.bAu,B.ap,b.a4L(b.gxv(),"Nombre",B.D1),B.F],s))
-if(b.a.d)B.b.E(r,A.a([B.bzL,B.ap,b.a4L(b.gxv(),"\xbfC\xf3mo te llamas?",B.D1),B.F],s))
+if(b.a.d)B.b.E(r,A.a([B.bzK,B.ap,b.a4L(b.gxv(),"\xbfC\xf3mo te llamas?",B.D1),B.F],s))
 r.push(new A.bC(!b.a.c?"Tu fruta":"Su fruta",a))
 r.push(B.w)
 r.push(A.i(!b.a.c?"Ser\xe1 tu mascota: te saluda y te anima en la app.":"Ser\xe1 su mascota: le saluda y le anima en la app.",a,a,a,B.dR,a,a,a))
@@ -136252,7 +136252,7 @@ r.push(B.w)
 l=b.ga3Q()
 q=$.P.a
 l=A.bxh(q,new A.bcp(b),a,a,B.bwr,l)
-q=A.bxh(q,new A.bcq(b),a,B.bAg,B.bxR,b.ga8q())
+q=A.bxh(q,new A.bcq(b),a,B.bAf,B.bxR,b.ga8q())
 k=A.a([B.b5J],s)
 for(p=0;p<2;++p){c=B.AI[p]
 j=A.i(c.c,a,a,a,a,a,a,a)
@@ -136271,7 +136271,7 @@ if(s.c)s="Crear perfil"
 else s=s.d?"Empezar mi plan":"Guardar mis objetivos"
 r.push(new A.bH(s,B.bB,b.gaNn(),a,!1,a))
 r.push(B.a3)
-r.push(B.bAe)
+r.push(B.bAd)
 return A.ez(a1,a,A.cR(r,a,B.z9,a,!1),a,a)},
 awL(a,b,c,d,e){var s,r,q,p,o,n,m=null,l=A.i(a,m,m,m,B.ay,m,m,m),k=t.p,j=A.a([],k)
 for(s=0;s<3;++s){r=b[s]
@@ -136451,7 +136451,7 @@ A.bc4.prototype={
 $0(){},
 $S:0}
 A.btJ.prototype={
-$1(a){var s,r,q,p,o,n,m=null,l=t.p,k=A.a([B.bAh,B.F],l)
+$1(a){var s,r,q,p,o,n,m=null,l=t.p,k=A.a([B.bAg,B.F],l)
 for(s=$.z(),r=s.c,q=r.length,p=this.a,o=0;o<r.length;r.length===q||(0,A.q)(r),++o){n=r[o]
 B.b.E(k,A.a([new A.MX(n,n.a===s.d,new A.btH(a,n,p),m,m),B.w],l))}k.push(B.al)
 k.push(new A.bH("A\xf1adir otra persona",B.Hc,new A.btI(a,p),m,!0,m))
@@ -136546,7 +136546,7 @@ k=B.c.j(n)
 m=A.a([new A.cm(1,B.ao,A.pX(A.i(l+A.b_(k,".",","),i,i,i,i,i,i,i),new A.boL(j,n),m),i)],q)
 if(n!==0.5)m.push(B.aX)
 B.b.E(p,m)}h=A.a([h,B.K,r,B.by4,B.K,A.a3(p,B.k,B.f,B.h,0,i,i),B.F],q)
-if(j.gabk())B.b.E(h,A.a([B.bzb,B.F],q))
+if(j.gabk())B.b.E(h,A.a([B.bza,B.F],q))
 if(!j.a.d){r=A.aX(B.ai5,$.P.a,i,20)
 p=j.gQm()
 B.b.E(h,A.a([new A.ao(A.bI(A.a3(A.a([r,B.ah,B.bwy,B.ip,A.i(A.cZ("d MMM yyyy","es").da(p),i,i,i,B.b4,i,i,i)],q),B.k,B.f,B.h,0,i,i),52,i),B.i,i,B.za,new A.boM(j,a),i),B.K],q))}h.push(new A.bH("Guardar",B.bB,j.gabk()?i:new A.boN(j,a),i,!1,i))
@@ -136608,7 +136608,7 @@ a2(){return new A.ak2(B.a40)}}
 A.ak2.prototype={
 q(a){return new A.dE(new A.bcJ(this),null,$.z(),null)}}
 A.bcJ.prototype={
-$2(a,b){var s=null,r=A.fE(s,s,s,B.bzm),q=this.a,p=t.dc,o=A.cK([q.d],p),n=$.P,m=n.e
+$2(a,b){var s=null,r=A.fE(s,s,s,B.bzl),q=this.a,p=t.dc,o=A.cK([q.d],p),n=$.P,m=n.e
 if(m==null)m=n.a
 n=n.f
 p=A.DR(new A.bcH(q),B.aTo,o,!1,A.Of(B.a1,m,n==null?B.i:n,B.a2k,B.dT),p)
@@ -136793,7 +136793,7 @@ for(k=0;k<6;++k)a1.push(new A.nN(B.H7,B.a8z,B.aK8[k],a0))
 n.push(new A.ao(A.V(a1,B.k,B.f,B.h,0,B.l),B.a9u,a0,B.N,a0,a0))
 n.push(B.F)
 n.push(B.b5Q)
-if($.z().id)B.b.E(n,A.a([B.K,A.c5(B.bz2,a0,a0,new A.aMa(),a0,a0)],o))
+if($.z().id)B.b.E(n,A.a([B.K,A.c5(B.bz1,a0,a0,new A.aMa(),a0,a0)],o))
 return A.ez(p,a0,A.cR(n,a0,B.dw,a0,!1),a0,a0)},
 $S:45}
 A.aM7.prototype={
@@ -136952,7 +136952,7 @@ if(b==null)b=d.a
 if(e){d=d.f
 if(d==null)d=B.i}else d=B.an
 h.push(A.fi(a,a,f,new A.p(!0,d,a,a,a,a,a,B.aj,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a),new A.bmp(c),e,b,a,!1,a,a))}h.push(A.lN(B.HJ,a,B.bxf,B.b8,new A.bmq(a5,a2),a,a,a))
-s=A.a([B.bxj,B.w,s,B.aH,n,B.z1,B.bAc,B.w,m,B.w,l,B.z1,r,B.al,q,j,i,B.z1,B.bzg,B.w,A.cF(B.ar,h,B.az,8,8),B.F],a1)
+s=A.a([B.bxj,B.w,s,B.aH,n,B.z1,B.bAb,B.w,m,B.w,l,B.z1,r,B.al,q,j,i,B.z1,B.bzf,B.w,A.cF(B.ar,h,B.az,8,8),B.F],a1)
 r=a3==null
 if(!r){q=a4==null?"":" \xb7 para unos "+A.n(a4)+" d\xedas"
 q=A.i("Quedan unos "+A.n(a3)+" g"+q,a,a,a,B.bV,a,a,a)
@@ -137006,7 +137006,7 @@ return null},
 $S:0}
 A.akR.prototype={
 q(a){var s=null,r=$.z().db,q=r.r,p=$.P,o=A.i(q?"A las "+r.w+", los d\xedas que te toca y no lo has apuntado. Toca la hora para cambiarla.":"Un aviso los d\xedas que te toca batido",s,s,s,s,s,s,s),n=q?A.c5(A.i(r.w,s,s,s,B.bV,s,s,s),s,s,new A.bfb(r,a),s,s):s
-return new A.ao(A.bxh(p.a,new A.bfc(),n,o,B.bzY,q),B.i,s,B.mA,s,s)}}
+return new A.ao(A.bxh(p.a,new A.bfc(),n,o,B.bzX,q),B.i,s,B.mA,s,s)}}
 A.bfc.prototype={
 $1(a){return this.akW(a)},
 akW(a){var s=0,r=A.x(t.H),q,p,o,n
@@ -137665,7 +137665,7 @@ if(j==null)j=k.a
 k=k.f
 m.push(new A.a4(B.iU,A.a3(A.a([l,B.aX,A.a3j(B.j5,new A.be1(a4,a7),A.lX(a5,j,a5,a5,a5,a5,a5,a5,k==null?B.i:k,a5,a5,a5,a5,a5,a5,a5,a5,a5),"A\xf1adir ingrediente")],o),B.k,B.f,B.h,0,a5,a5),a5))}p.push(new A.ao(A.V(m,B.k,B.f,B.h,0,B.l),B.i,a5,B.G7,a5,a5))
 m=$.z()
-if($.k0.aE(s))p.push(new A.a4(B.iT,A.a3(A.a([A.ah(A.i(m.ae.m(0,s)||m.ar.m(0,s)?"Has editado esta receta y has puesto sus calor\xedas a mano.":"Has editado esta receta. Las calor\xedas salen de sus ingredientes.",a5,a5,a5,B.aJ,a5,a5,a5),1),A.c5(B.byJ,a5,a5,new A.be2(a7),a5,a5)],o),B.k,B.f,B.h,0,a5,a5),a5))
+if($.k0.aE(s))p.push(new A.a4(B.iT,A.a3(A.a([A.ah(A.i(m.ae.m(0,s)||m.ar.m(0,s)?"Has editado esta receta y has puesto sus calor\xedas a mano.":"Has editado esta receta. Las calor\xedas salen de sus ingredientes.",a5,a5,a5,B.aJ,a5,a5,a5),1),A.c5(B.byI,a5,a5,new A.be2(a7),a5,a5)],o),B.k,B.f,B.h,0,a5,a5),a5))
 if(A.bJ1(n).length!==0){s=m.a0
 l=A.a([],o)
 for(n=A.bJ1(n),k=n.length,a0=0;a0<n.length;n.length===k||(0,A.q)(n),++a0){a1=n[a0]
@@ -137746,7 +137746,7 @@ $S:0}
 A.beh.prototype={
 $1(a){var s=null,r=this.a,q="\xab"+r.b
 q=A.i(r.Q?q+"\xbb se borra de tus recetas. No se puede deshacer.":q+"\xbb dejar\xe1 de salir en Recetas. Si est\xe1 en tu men\xfa, seguir\xe1 ah\xed. Puedes recuperarla al final de la pesta\xf1a Recetas.",s,s,s,s,s,s,s)
-return A.hS(A.a([A.c5(B.dc,s,s,new A.bef(a),s,s),A.c5(B.bzy,s,s,new A.beg(a),s,s)],t.p),q,s,B.bxd)},
+return A.hS(A.a([A.c5(B.dc,s,s,new A.bef(a),s,s),A.c5(B.bzx,s,s,new A.beg(a),s,s)],t.p),q,s,B.bxd)},
 $S:27}
 A.bef.prototype={
 $0(){return A.ai(this.a,!1).d1(!1)},
@@ -137904,7 +137904,7 @@ A.be4.prototype={
 $0(){return this.a.a3D(this.b,this.c)},
 $S:0}
 A.bqM.prototype={
-$1(a){var s,r,q,p,o,n,m,l,k,j,i=this,h=null,g=i.a,f=t.p,e=A.a([B.bA8,B.al,A.i(g.b+" \xb7 "+g.w+" kcal",h,h,h,B.b4,h,h,h),B.F],f)
+$1(a){var s,r,q,p,o,n,m,l,k,j,i=this,h=null,g=i.a,f=t.p,e=A.a([B.bA7,B.al,A.i(g.b+" \xb7 "+g.w+" kcal",h,h,h,B.b4,h,h,h),B.F],f)
 for(s=i.b,r=i.d,q=i.e,p=i.c,o=0;o<s.length;o=k){n=s[o]
 m=n.a
 l=m===p?$.P.c:B.i
@@ -138135,7 +138135,7 @@ r=t.p
 q=A.a([],r)
 for(p=l.length,o=0;o<l.length;l.length===p||(0,A.q)(l),++o){n=l[o]
 q.push(A.kn(!1,m,m,m,!0,m,m,m,!0,m,A.aX(n.gff().d,n.gff().e,m,m),m,m,m,m,m,!1,m,m,m,m,m,m,m,A.i(n.b,m,m,m,m,m,m,m),m,A.c5(B.bxg,m,m,new A.beL(n),m,m),m))}r=A.a([B.b5E,new A.eu(1,B.bP,A.cR(q,m,m,m,!0),m)],r)
-if(l.length>1)r.push(new A.a4(B.iV,new A.Mv(!1,$.z().gb47(),m,m,m,m,m,m,!1,m,!0,m,B.byI,m),m))
+if(l.length>1)r.push(new A.a4(B.iV,new A.Mv(!1,$.z().gb47(),m,m,m,m,m,m,!1,m,!0,m,B.byH,m),m))
 return A.ey(!0,new A.dN(new A.aA(0,1/0,0,s.a.b*0.7),A.V(r,B.k,B.f,B.ag,0,B.l),m),!1,B.a1,!0)},
 $S:849}
 A.beK.prototype={
@@ -138201,7 +138201,7 @@ else l=B.aZ
 if(g.bv.m(0,o))if(B.ki.k(0,$.P.a)){o=$.P.f
 if(o==null)o=B.i}else o=B.i
 else o=B.an
-s.push(A.bCi(B.i,p,new A.p(!0,o,j,j,j,j,13,B.aj,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j),B.jp,new A.baK(this,q),B.zc,n,m,!1,new A.aY(l,1,B.D,-1),B.dT))}return new A.ao(A.V(A.a([h,B.byM,B.a3,A.cF(B.ar,s,B.az,6,6)],i),B.o,B.f,B.h,0,B.l),B.i,j,B.N,j,j)}}
+s.push(A.bCi(B.i,p,new A.p(!0,o,j,j,j,j,13,B.aj,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j),B.jp,new A.baK(this,q),B.zc,n,m,!1,new A.aY(l,1,B.D,-1),B.dT))}return new A.ao(A.V(A.a([h,B.byL,B.a3,A.cF(B.ar,s,B.az,6,6)],i),B.o,B.f,B.h,0,B.l),B.i,j,B.N,j,j)}}
 A.baJ.prototype={
 $0(){var s,r,q=$.z()
 q.bv=A.aC(t.N)
@@ -138371,7 +138371,7 @@ $1(a){return new A.zS(this.a.gaNa(),null)},
 $S:852}
 A.bh4.prototype={
 $1(a){var s=null
-return A.hS(A.a([A.c5(B.byT,s,s,new A.bh2(a),s,s),A.c5(B.bwT,s,s,new A.bh3(a),s,s)],t.p),B.bzH,s,B.bxM)},
+return A.hS(A.a([A.c5(B.byS,s,s,new A.bh2(a),s,s),A.c5(B.bwT,s,s,new A.bh3(a),s,s)],t.p),B.bzG,s,B.bxM)},
 $S:27}
 A.bh2.prototype={
 $0(){return A.ai(this.a,!1).d1(!1)},
@@ -138593,7 +138593,7 @@ $1(a){return new A.uL(this.a,null,null)},
 $S:334}
 A.aPk.prototype={
 $1(a){var s=null
-return A.hS(A.a([A.c5(B.dc,s,s,new A.aPi(a),s,s),A.c5(B.a2x,s,s,new A.aPj(a),s,s)],t.p),B.bx4,s,B.bzp)},
+return A.hS(A.a([A.c5(B.dc,s,s,new A.aPi(a),s,s),A.c5(B.a2x,s,s,new A.aPj(a),s,s)],t.p),B.bx4,s,B.bzo)},
 $S:27}
 A.aPi.prototype={
 $0(){return A.ai(this.a,!1).d1(!1)},
@@ -138603,7 +138603,7 @@ $0(){return A.ai(this.a,!1).d1(!0)},
 $S:0}
 A.aPg.prototype={
 $1(a){var s=null,r=A.i("\xbfEliminar \xab"+this.a.ged()+"\xbb?",s,s,s,s,s,s,s)
-return A.hS(A.a([A.c5(B.dc,s,s,new A.aPe(a),s,s),A.c5(B.bzv,s,s,new A.aPf(a),s,s)],t.p),B.bxh,s,r)},
+return A.hS(A.a([A.c5(B.dc,s,s,new A.aPe(a),s,s),A.c5(B.bzu,s,s,new A.aPf(a),s,s)],t.p),B.bxh,s,r)},
 $S:27}
 A.aPe.prototype={
 $0(){return A.ai(this.a,!1).d1(!1)},
@@ -138655,7 +138655,7 @@ A.x0.prototype={
 a2(){return new A.age()}}
 A.age.prototype={
 q(a){var s,r,q,p,o,n=this,m=null,l=t.jL,k=l.i("a_<J.E>"),j=A.R(new A.a_(new A.a_(B.qc,new A.b3U(n),l),new A.b3V(A.bzs(n.e)),k),k.i("J.E"))
-l=A.fE(m,m,m,B.bzZ)
+l=A.fE(m,m,m,B.bzY)
 k=t.p
 s=A.a([n.a9p("Todos",m)],k)
 for(r=0;r<8;++r){q=B.Qm[r]
@@ -138728,7 +138728,7 @@ return s>0?A.w2(s)+" \xd7 "+r:r+" reps"},
 q(a){return new A.dE(new A.aA6(this),null,$.z(),null)}}
 A.aA6.prototype={
 $2(a,b){var s,r,q,p,o,n=null,m=$.z(),l=this.a,k=l.c,j=m.a_Y(k),i=m.aiP(k)
-if(j.length===0)m=B.bzO
+if(j.length===0)m=B.bzN
 else{m=t.p
 k=A.a([],m)
 if(i!=null)k.push(A.a3(A.a([B.Hz,B.aX,B.bws,B.ip,A.i(l.a9q(i),n,n,n,B.bvz,n,n,n)],m),B.k,B.f,B.h,0,n,n))
@@ -138983,7 +138983,7 @@ return A.w($async$Cb,r)},
 q(a){return new A.dE(new A.biB(this),null,$.z(),null)}}
 A.bif.prototype={
 $1(a){var s=null
-return A.hS(A.a([A.c5(B.dc,s,s,new A.bid(a),s,s),A.c5(B.a2x,s,s,new A.bie(a),s,s)],t.p),B.bA3,s,B.bzC)},
+return A.hS(A.a([A.c5(B.dc,s,s,new A.bid(a),s,s),A.c5(B.a2x,s,s,new A.bie(a),s,s)],t.p),B.bA2,s,B.bzB)},
 $S:27}
 A.bid.prototype={
 $0(){return A.ai(this.a,!1).d1(!1)},
@@ -139003,7 +139003,7 @@ $0(){return A.ai(this.a,!1).d1(!0)},
 $S:0}
 A.bic.prototype={
 $1(a){var s=null
-return A.hS(A.a([A.c5(B.dc,s,s,new A.bia(a),s,s),A.c5(B.o4,s,s,new A.bib(a),s,s)],t.p),B.bxE,s,B.bzQ)},
+return A.hS(A.a([A.c5(B.dc,s,s,new A.bia(a),s,s),A.c5(B.o4,s,s,new A.bib(a),s,s)],t.p),B.bxE,s,B.bzP)},
 $S:27}
 A.bia.prototype={
 $0(){return A.ai(this.a,!1).d1(!1)},
@@ -139053,7 +139053,7 @@ p.push(new A.ao(A.amS(!1,B.aiV,e.gan5(),"Al completar cosas y en el descanso del
 p.push(B.K)
 p.push(B.bmB)
 p.push(B.w)
-p.push(new A.ao(A.V(A.a([A.amS(!1,B.pF,new A.bio(),"Muestra la casilla diaria en Hoy","Tomo creatina",e.dy),A.amS(!1,B.mM,new A.bip(),"Te dice cu\xe1nta tomar cada d\xeda y cuenta en tu prote\xedna","Tomo prote\xedna en polvo",e.id),A.kn(!1,i,i,i,!0,i,i,i,!0,i,A.i(e.k1.d,i,i,i,B.xg,i,i,i),i,i,i,i,new A.biq(a),!1,i,i,i,i,i,A.i(e.gatp(),i,i,i,i,i,i,i),i,B.bzn,i,B.kD,i)],q),B.k,B.f,B.h,0,B.l),B.i,i,B.mA,i,i))
+p.push(new A.ao(A.V(A.a([A.amS(!1,B.pF,new A.bio(),"Muestra la casilla diaria en Hoy","Tomo creatina",e.dy),A.amS(!1,B.mM,new A.bip(),"Te dice cu\xe1nta tomar cada d\xeda y cuenta en tu prote\xedna","Tomo prote\xedna en polvo",e.id),A.kn(!1,i,i,i,!0,i,i,i,!0,i,A.i(e.k1.d,i,i,i,B.xg,i,i,i),i,i,i,i,new A.biq(a),!1,i,i,i,i,i,A.i(e.gatp(),i,i,i,i,i,i,i),i,B.bzm,i,B.kD,i)],q),B.k,B.f,B.h,0,B.l),B.i,i,B.mA,i,i))
 p.push(B.K)
 p.push(B.bm9)
 p.push(B.w)
@@ -139068,10 +139068,10 @@ p.push(A.dW(A.hh(B.akm,B.bya,new A.bir(a),i),i,i))
 p.push(B.bpU)
 p.push(new A.bH("Borrar todo lo apuntado",B.mJ,h.gaOl(),B.q,!0,i))
 p.push(B.K)
-p.push(B.bAk)
+p.push(B.bAj)
 p.push(B.w)
-p.push(A.dW(A.i("FrutiFit 1.64.1 (85) \xb7 todo se guarda en este navegador\nC\xe1lculos orientativos: no sustituyen a un profesional.",i,i,i,A.aW(i,i,B.W,i,i,i,i,i,i,i,i,12,i,i,i,i,i,!0,i,i,i,i,i,i,i,i),B.aI,i,i),i,i))
-p.push(A.dW(A.c5(B.bz3,i,i,new A.bis(),i,i),i,i))
+p.push(A.dW(A.i("FrutiFit 1.64.2 (86) \xb7 todo se guarda en este navegador\nC\xe1lculos orientativos: no sustituyen a un profesional.",i,i,i,A.aW(i,i,B.W,i,i,i,i,i,i,i,i,12,i,i,i,i,i,!0,i,i,i,i,i,i,i,i),B.aI,i,i),i,i))
+p.push(A.dW(A.c5(B.bz2,i,i,new A.bis(),i,i),i,i))
 return A.ez(f,i,A.cR(p,i,B.dw,i,!1),i,i)},
 $S:45}
 A.bik.prototype={
@@ -139253,7 +139253,7 @@ $1(a){return!$.z().e.m(0,a.a)},
 $S:862}
 A.biR.prototype={
 $1(a){var s=null,r=A.i("Se desmarca todo lo de \xab"+$.z().gJv()+"\xbb. Los productos se quedan en la lista.",s,s,s,s,s,s,s)
-return A.hS(A.a([A.c5(B.dc,s,s,new A.biP(a),s,s),A.c5(B.byu,s,s,new A.biQ(a),s,s)],t.p),r,s,B.bz4)},
+return A.hS(A.a([A.c5(B.dc,s,s,new A.biP(a),s,s),A.c5(B.byt,s,s,new A.biQ(a),s,s)],t.p),r,s,B.bz3)},
 $S:27}
 A.biP.prototype={
 $0(){return A.ai(this.a,!1).d1(!1)},
@@ -139300,7 +139300,7 @@ k=o.e
 if(k==null)k=o.a
 o=o.f
 if(o==null)o=B.i
-o=A.bvQ(k,o,g,B.j5,B.byy,new A.bje(f,a))
+o=A.bvQ(k,o,g,B.j5,B.byx,new A.bje(f,a))
 k=A.a([A.i(""+m,g,g,g,B.a2s,g,g,g),B.aX,A.ah(A.i("de "+n+" en el carro",g,g,g,B.bw4,g,g,g),1)],j)
 if(m===n&&n>0)k.push(A.aX(B.Hr,$.P.a,g,32))
 k=A.a3(k,B.hr,B.f,B.h,0,B.a2,g)
@@ -139371,7 +139371,7 @@ m=o.e
 if(m==null)m=o.a
 if(p){o=o.f
 if(o==null)o=B.i}else o=B.an
-e.push(A.fi(n,l,q,new A.p(!0,o,l,l,l,l,l,B.aj,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l),new A.bj1(h,b,r),p,m,l,!1,l,l))}return new A.a4(new A.a5(16,0,16,k.f.d+24),A.i2(A.V(A.a([j,B.ap,g,B.ap,B.bzK,B.w,A.cF(B.ar,e,B.az,8,8),B.io,new A.bH("A\xf1adir",B.cr,new A.bj2(h,i,a),l,!1,l)],f),B.o,B.f,B.ag,0,B.l),l,l,B.aB),l)},
+e.push(A.fi(n,l,q,new A.p(!0,o,l,l,l,l,l,B.aj,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l),new A.bj1(h,b,r),p,m,l,!1,l,l))}return new A.a4(new A.a5(16,0,16,k.f.d+24),A.i2(A.V(A.a([j,B.ap,g,B.ap,B.bzJ,B.w,A.cF(B.ar,e,B.az,8,8),B.io,new A.bH("A\xf1adir",B.cr,new A.bj2(h,i,a),l,!1,l)],f),B.o,B.f,B.ag,0,B.l),l,l,B.aB),l)},
 $S:203}
 A.bj0.prototype={
 $1(a){$.z().US(a,this.a.a)
@@ -139451,7 +139451,7 @@ o=t.p
 n=A.a([],o)
 for(s=B.b.gaa(B.Qh),m=new A.kC(s,m);m.v();){r=s.gP()
 q=$.P
-n.push(A.lN(A.aX(B.cr,q.a,p,16),q.c,A.i(r,p,p,p,p,p,p,p),B.brZ,new A.b01(r),B.L,p,B.dT))}return new A.a4(B.abW,A.V(A.a([B.bz0,B.w,A.cF(B.ar,n,B.az,6,6)],o),B.o,B.f,B.h,0,B.l),p)}}
+n.push(A.lN(A.aX(B.cr,q.a,p,16),q.c,A.i(r,p,p,p,p,p,p,p),B.brZ,new A.b01(r),B.L,p,B.dT))}return new A.a4(B.abW,A.V(A.a([B.bz_,B.w,A.cF(B.ar,n,B.az,6,6)],o),B.o,B.f,B.h,0,B.l),p)}}
 A.b0_.prototype={
 $1(a){return a.c===B.k2},
 $S:59}
@@ -139551,7 +139551,7 @@ o=$.P
 n=o.e
 if(n==null)n=o.a
 o=o.f
-s=A.a([B.byN,B.a3,A.bI(A.DR(new A.b8o(),B.ayP,p,!1,A.Of(l,n,o==null?B.i:o,B.ay,l),s),l,1/0),B.F],t.p)
+s=A.a([B.byM,B.a3,A.bI(A.DR(new A.b8o(),B.ayP,p,!1,A.Of(l,n,o==null?B.i:o,B.ay,l),s),l,1/0),B.F],t.p)
 if(k===B.eP){p=B.c.a1(r,2)
 s.push(A.i("La semana sale por unos "+(A.b_(p,".",",")+" \u20ac")+" con los productos recomendados (precios de la web de Mercadona del 12 nov 2026).",l,l,l,B.o2,l,l,l))}else{p=m.a
 if(p===0)p="Lidl no publica los precios de su surtido fijo. Mientras compras, toca \xab\u20ac Precio\xbb en cada producto y apunta lo que pone en la etiqueta: la app los recuerda y te suma la semana."
@@ -139628,7 +139628,7 @@ m=B.c.O(m)
 q=q.x
 q.toString
 q=B.c.a1(q,q<10&&q!==0?1:0)
-B.b.E(h,A.a([B.w,A.i(""+m+" kcal \xb7 "+A.b_(q,".",",")+" g de prote\xedna por 100 g",i,i,i,B.xb,i,i,i),A.i("Ficha de Open Food Facts \xb7 c\xf3digo "+n,i,i,i,B.bk,i,i,i)],o))}else if(f)B.b.E(h,A.a([B.w,B.bAf],o))
+B.b.E(h,A.a([B.w,A.i(""+m+" kcal \xb7 "+A.b_(q,".",",")+" g de prote\xedna por 100 g",i,i,i,B.xb,i,i,i),A.i("Ficha de Open Food Facts \xb7 c\xf3digo "+n,i,i,i,B.bk,i,i,i)],o))}else if(f)B.b.E(h,A.a([B.w,B.bAe],o))
 if(f&&j.c!=null){q=A.a([B.w],o)
 o=e==null
 if(!o)q.push(A.i("Precio apuntado el "+A.cZ("d MMM y","es").da(e.b),i,i,i,B.bk,i,i,i))
@@ -139715,7 +139715,7 @@ k.push(p==null?q:p)}o=new A.ac(k,new A.aTP(),t.fo).iV(0)
 s=$.z().Q
 p=A.a0(s)
 n=A.c1A(new A.ev(new A.a_(s,new A.aTQ(o),p.i("a_<1>")),new A.aTR(),p.i("ev<1,ap>")),new A.ap(Date.now(),0,!1))
-p=A.fE(l,l,l,B.byj)
+p=A.fE(l,l,l,B.byi)
 if(n===0)s="Unos minutos al d\xeda marcan la diferencia."
 else s=n===1?"\ud83d\udd25 1 d\xeda seguido. \xa1Sigue ma\xf1ana!":"\ud83d\udd25 "+n+" d\xedas seguidos. \xa1Sigue as\xed!"
 s=A.a([B.bml,B.al,A.i(s,l,l,l,B.xh,l,l,l),B.w],t.p)
@@ -139833,7 +139833,7 @@ s=A.a([],m)
 if(A.cS($.ci(),q)<0){q=$.ci()
 s.push(new A.eh("El plan empieza el "+A.cZ("d MMM","es").da(q),r,B.Am,r))}if(o.gAz()>0){q=o.gAz()
 o=o.gAz()===1?"d\xeda":"d\xedas"
-s.push(new A.eh("Racha de "+q+" "+o,B.q,B.hz,r))}return A.a3(A.a([A.ah(A.V(A.a([p,B.bT,n,B.w,A.cF(B.ar,s,B.az,6,8)],m),B.o,B.f,B.h,0,B.l),1),A.V(A.a([A.cp(r,r,r,B.akf,r,r,new A.b6r(a),r,r,r,"Ajustes",r),B.byi],m),B.k,B.f,B.ag,0,B.l)],m),B.o,B.f,B.h,0,r,r)}}
+s.push(new A.eh("Racha de "+q+" "+o,B.q,B.hz,r))}return A.a3(A.a([A.ah(A.V(A.a([p,B.bT,n,B.w,A.cF(B.ar,s,B.az,6,8)],m),B.o,B.f,B.h,0,B.l),1),A.V(A.a([A.cp(r,r,r,B.akf,r,r,new A.b6r(a),r,r,r,"Ajustes",r),B.bAl],m),B.k,B.f,B.ag,0,B.l)],m),B.o,B.f,B.h,0,r,r)}}
 A.b6q.prototype={
 $0(){return A.c40(this.a)},
 $S:0}
@@ -139959,13 +139959,13 @@ q(a){var s=this.c,r=this.d
 return A.bI(s>=1?A.aX(B.cs,r,null,14):A.avK(r.cv(0.2),r,null,3,s),14,14)}}
 A.ajg.prototype={
 q(a){var s=null,r=this.c,q=new A.ap(Date.now(),0,!1),p=t.p
-return new A.ao(A.a3(A.a([B.ajI,B.aF,A.ah(A.V(A.a([A.i(A.h_(r,A.aw(q.gX(),q.gV(),q.gW()+-1,0,0,0,0))?"Est\xe1s viendo ayer":"Est\xe1s viendo el "+A.cZ("EEEE","es").da(r)+" "+r.gW(),s,s,s,B.e8,s,s,s),B.byH],p),B.o,B.f,B.h,0,B.l),1),A.c5(B.a2z,s,s,this.d,s,A.fd(s,s,s,s,s,s,s,s,s,s,s,$.P.a,s,s,s,s,s,s,s,s,s,s,s,s,s,s))],p),B.k,B.f,B.h,0,s,s),B.a8k,s,B.G8,s,s)}}
+return new A.ao(A.a3(A.a([B.ajI,B.aF,A.ah(A.V(A.a([A.i(A.h_(r,A.aw(q.gX(),q.gV(),q.gW()+-1,0,0,0,0))?"Est\xe1s viendo ayer":"Est\xe1s viendo el "+A.cZ("EEEE","es").da(r)+" "+r.gW(),s,s,s,B.e8,s,s,s),B.byG],p),B.o,B.f,B.h,0,B.l),1),A.c5(B.a2z,s,s,this.d,s,A.fd(s,s,s,s,s,s,s,s,s,s,s,$.P.a,s,s,s,s,s,s,s,s,s,s,s,s,s,s))],p),B.k,B.f,B.h,0,s,s),B.a8k,s,B.G8,s,s)}}
 A.agU.prototype={
 q(a){var s,r,q=null,p=this.c,o=new A.ap(Date.now(),0,!1),n=A.h_(p,A.aw(o.gX(),o.gV(),o.gW()+1,0,0,0,0))
 o=$.P
 s=A.aX(B.H2,o.a,q,q)
 r=t.p
-return new A.ao(A.a3(A.a([s,B.aF,A.ah(A.V(A.a([A.i(n?"As\xed ser\xe1 ma\xf1ana":"As\xed ser\xe1 el "+A.cZ("EEEE","es").da(p)+" "+p.gW(),q,q,q,B.e8,q,q,q),B.bzi],r),B.o,B.f,B.h,0,B.l),1),A.c5(B.a2z,q,q,this.d,q,A.fd(q,q,q,q,q,q,q,q,q,q,q,$.P.a,q,q,q,q,q,q,q,q,q,q,q,q,q,q))],r),B.k,B.f,B.h,0,q,q),o.c,q,B.G8,q,q)}}
+return new A.ao(A.a3(A.a([s,B.aF,A.ah(A.V(A.a([A.i(n?"As\xed ser\xe1 ma\xf1ana":"As\xed ser\xe1 el "+A.cZ("EEEE","es").da(p)+" "+p.gW(),q,q,q,B.e8,q,q,q),B.bzh],r),B.o,B.f,B.h,0,B.l),1),A.c5(B.a2z,q,q,this.d,q,A.fd(q,q,q,q,q,q,q,q,q,q,q,$.P.a,q,q,q,q,q,q,q,q,q,q,q,q,q,q))],r),B.k,B.f,B.h,0,q,q),o.c,q,B.G8,q,q)}}
 A.agV.prototype={
 q(a){var s=null,r=A.iH(this.c),q=r==null?s:A.kN(r),p=q==null,o=p?B.em:B.ce
 return new A.ao(A.a3(A.a([new A.nL(o,B.q,s),B.ah,A.ah(A.i(p?"Ese d\xeda no toca rutina: sal a caminar":"Toca la rutina "+q.a+" \xb7 "+q.b.length+" ejercicios",s,s,s,B.cP,s,s,s),1)],t.p),B.k,B.f,B.h,0,s,s),B.i,s,B.N,s,s)}}
@@ -140001,7 +140001,7 @@ if(q.OV(p)>0)r.push("Hoy "+q.OV(p)+" pasos")
 if(q.gNL()>0)r.push(A.iU(q.gNL()*1000)+" esta semana")
 r=B.b.bK(r," \xb7 ")
 q=t.p
-return new A.ao(A.a3(A.a([B.bGJ,B.aF,A.ah(A.V(A.a([B.bzF,A.i(r.length===0?"Rutas cerca de ti o graba tu caminata":r,s,s,s,B.aJ,s,s,s)],q),B.o,B.f,B.h,0,B.l),1),A.a3j(B.akd,new A.bmV(a),A.lX(s,B.bv,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s),"Grabar caminata")],q),B.k,B.f,B.h,0,s,s),B.i,s,B.hw,new A.bmW(a),s)}}
+return new A.ao(A.a3(A.a([B.bGJ,B.aF,A.ah(A.V(A.a([B.bzE,A.i(r.length===0?"Rutas cerca de ti o graba tu caminata":r,s,s,s,B.aJ,s,s,s)],q),B.o,B.f,B.h,0,B.l),1),A.a3j(B.akd,new A.bmV(a),A.lX(s,B.bv,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s),"Grabar caminata")],q),B.k,B.f,B.h,0,s,s),B.i,s,B.hw,new A.bmW(a),s)}}
 A.bmW.prototype={
 $0(){return A.ai(this.a,!1).cX(A.cv(new A.bmQ(),!1,null,t.z))},
 $S:0}
@@ -140036,7 +140036,7 @@ if(e!=null){g=A.i("SIGUIENTE \xb7 "+i[e].a.toUpperCase(),m,m,m,A.aW(m,m,$.P.a,m,
 f=A.i(i[e].b,m,m,m,B.bs8,m,m,m)
 r=A.a([A.ah(new A.bH("Hecha",B.bB,new A.b8V(n,e),m,!1,m),1)],s)
 if(J.hu(i[e].c))B.b.E(r,A.a([B.ah,A.ah(new A.bH("Receta",B.fU,new A.b8W(a,i,e),m,!0,m),1)],s))
-B.b.E(l,A.a([g,B.aH,f,B.ap,A.a3(r,B.k,B.f,B.h,0,m,m),B.w,A.cF(B.xD,A.a([A.hh(B.HA,B.byV,new A.b8X(n,e),A.fd(m,m,m,m,m,m,m,m,m,m,m,B.q,m,m,m,m,m,m,m,m,m,m,m,m,m,m))],s),B.az,0,0),A.dW(A.hh(B.HB,B.bzD,new A.b8Y(n,a,i,e),A.fd(m,m,m,m,m,m,m,m,m,m,m,$.P.a,m,m,m,m,m,m,m,m,m,m,m,m,m,m)),m,m)],s))}else if(n.f)l.push(B.bAn)
+B.b.E(l,A.a([g,B.aH,f,B.ap,A.a3(r,B.k,B.f,B.h,0,m,m),B.w,A.cF(B.xD,A.a([A.hh(B.HA,B.byU,new A.b8X(n,e),A.fd(m,m,m,m,m,m,m,m,m,m,m,B.q,m,m,m,m,m,m,m,m,m,m,m,m,m,m))],s),B.az,0,0),A.dW(A.hh(B.HB,B.bzC,new A.b8Y(n,a,i,e),A.fd(m,m,m,m,m,m,m,m,m,m,m,$.P.a,m,m,m,m,m,m,m,m,m,m,m,m,m,m)),m,m)],s))}else if(n.f)l.push(B.bAn)
 else if(g)l.push(B.bwK)
 else{g=$.P
 f=A.bf(16)
@@ -140050,7 +140050,7 @@ l.push(B.dZ)
 for(k=J.bi(d);k.v();){f=k.gP()
 r=f.e
 if(r==null)r="Extra"
-l.push(new A.a4(B.dv,A.a3(A.a([B.bpT,B.jD,new A.cm(1,B.ao,A.V(A.a([A.i(r+" \xb7 "+f.c+" kcal \xb7 "+A.f4(f.d)+" g prot.",m,m,m,B.D8,m,m,m),A.i(f.b,m,m,m,B.bsm,m,m,m)],s),B.o,B.f,B.h,0,B.l),m),A.cp(m,m,m,B.Av,m,m,new A.b8Z(n,f),m,m,m,"Quitar",m)],s),B.k,B.f,B.h,0,m,m),m))}if(!g)B.b.E(l,A.a([B.aH,A.hh(B.j5,B.bzE,new A.b9_(n,a),A.fd(m,m,m,m,m,m,m,m,m,m,m,$.P.a,m,m,m,m,m,m,m,m,m,m,m,m,m,m))],s))
+l.push(new A.a4(B.dv,A.a3(A.a([B.bpT,B.jD,new A.cm(1,B.ao,A.V(A.a([A.i(r+" \xb7 "+f.c+" kcal \xb7 "+A.f4(f.d)+" g prot.",m,m,m,B.D8,m,m,m),A.i(f.b,m,m,m,B.bsm,m,m,m)],s),B.o,B.f,B.h,0,B.l),m),A.cp(m,m,m,B.Av,m,m,new A.b8Z(n,f),m,m,m,"Quitar",m)],s),B.k,B.f,B.h,0,m,m),m))}if(!g)B.b.E(l,A.a([B.aH,A.hh(B.j5,B.bzD,new A.b9_(n,a),A.fd(m,m,m,m,m,m,m,m,m,m,m,$.P.a,m,m,m,m,m,m,m,m,m,m,m,m,m,m))],s))
 return new A.ao(A.V(l,B.o,B.f,B.h,0,B.l),B.i,m,B.N,m,m)}}
 A.b8U.prototype={
 $0(){return A.ai(this.b,!1).cX(A.cv(new A.b8T(this.a),!1,null,t.z))},
@@ -140344,7 +140344,7 @@ q.push(A.lN(l,B.i,A.i(n.b+" \xb7 "+k,j,j,j,j,j,j,j),B.b8,new A.bu2(o,g),B.k7,j,j
 o=this.c
 n=A.ah(A.eA(j,B.j,!1,j,!0,B.E,j,A.eQ(),o,j,j,j,j,j,2,A.ic(j,new A.ew(4,A.bf(14),B.L),j,j,j,j,j,j,!0,j,j,j,j,j,j,B.i,!0,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,"Otra cantidad",!0,!0,!1,j,j,j,j,j,j,j,j,j,j,j,j,"ml",j),B.a_,!0,j,!0,j,!1,j,B.b5,j,j,j,j,B.dl,j,j,j,1,j,j,!1,"\u2022",j,j,j,j,j,!1,j,j,!1,j,!0,j,B.bm,j,j,j,j,j,j,j,j,j,j,j,j,!0,B.am,j,B.db,j,j,j,j),1)
 l=A.JZ(B.bv,j,j,j,j,j,j)
-return new A.a4(new A.a5(20,20,20,24+f.f.d),A.V(A.a([B.bys,B.al,h,B.F,s,B.ap,q,B.ap,A.a3(A.a([n,B.aX,A.pX(A.i(i.a?"Quitar":"Sumar",j,j,j,j,j,j,j),new A.bu3(o,g),l)],r),B.k,B.f,B.h,0,j,j)],r),B.o,B.f,B.ag,0,B.l),j)},
+return new A.a4(new A.a5(20,20,20,24+f.f.d),A.V(A.a([B.byr,B.al,h,B.F,s,B.ap,q,B.ap,A.a3(A.a([n,B.aX,A.pX(A.i(i.a?"Quitar":"Sumar",j,j,j,j,j,j,j),new A.bu3(o,g),l)],r),B.k,B.f,B.h,0,j,j)],r),B.o,B.f,B.ag,0,B.l),j)},
 $S:203}
 A.bu5.prototype={
 $1(a){var s=$.z(),r=this.b,q=this.a.a?-a:a
@@ -140374,19 +140374,19 @@ A.bu_.prototype={
 $1(a){return A.BT(new A.btY(this.a,this.b),null,!1,0.8,0.95,0.25,!1,null)},
 $S:90}
 A.btY.prototype={
-$2(a,b){var s,r,q,p,o,n,m=null,l=B.bv.cv(0.08),k=this.a,j=t.p,i=A.V(A.a([A.i(k.a,m,m,m,B.bsu,m,m,m),B.aH,A.i(k.b,m,m,m,B.ev,m,m,m)],j),B.o,B.f,B.h,0,B.l),h=A.a([B.bze,B.w],j)
+$2(a,b){var s,r,q,p,o,n,m=null,l=B.bv.cv(0.08),k=this.a,j=t.p,i=A.V(A.a([A.i(k.a,m,m,m,B.bsu,m,m,m),B.aH,A.i(k.b,m,m,m,B.ev,m,m,m)],j),B.o,B.f,B.h,0,B.l),h=A.a([B.bzd,B.w],j)
 for(s=k.c,r=s.length,q=t.VO,p=0;p<s.length;s.length===r||(0,A.q)(s),++p){o=s[p]
 n=A.a([new A.eO(o.a+": ",m,m,B.ba,m,m,m,m,m,m,B.ay),new A.eO(o.b,m,m,B.ba,m,m,m,m,m,m,m)],q)
 h.push(new A.a4(B.eg,A.aUq(new A.eO(m,n,m,B.ba,m,m,m,m,m,m,m),m,m),m))}l=A.a([B.bAv,B.al,B.bAz,B.ap,new A.ao(i,l,m,B.N,m,m),B.a3,new A.ao(A.V(h,B.o,B.f,B.h,0,B.l),B.i,m,B.N,m,m)],j)
 i=k.d
-if(i.length!==0){h=A.a([B.bzq,B.w],j)
+if(i.length!==0){h=A.a([B.bzp,B.w],j)
 for(s=i.length,r=this.b,p=0;p<i.length;i.length===s||(0,A.q)(i),++p)h.push(r.$1(i[p]))
 B.b.E(l,A.a([B.a3,new A.ao(A.V(h,B.o,B.f,B.h,0,B.l),B.i,m,B.N,m,m)],j))}l.push(B.a3)
 j=A.a([B.bxH,B.w],j)
 for(k=k.e,i=k.length,h=this.b,p=0;p<k.length;k.length===i||(0,A.q)(k),++p)j.push(h.$1(k[p]))
 l.push(new A.ao(A.V(j,B.o,B.f,B.h,0,B.l),B.i,m,B.N,m,m))
 l.push(B.a3)
-l.push(B.byU)
+l.push(B.byT)
 return A.cR(l,b,B.dw,m,!1)},
 $S:103}
 A.Re.prototype={
@@ -140462,7 +140462,7 @@ else p.push(new A.bH("Empezar entreno",B.f6,new A.bpb(a,q),B.q,!1,s))
 p.push(B.a3)
 p.push(new A.bH("Ver los ejercicios",B.pC,new A.bpc(a,q),B.q,!0,s))
 B.b.E(o,p)
-p=n}else{p=A.a([B.bzf,B.aH,B.bzt,B.ap],n)
+p=n}else{p=A.a([B.bze,B.aH,B.bzs,B.ap],n)
 n=$.z()
 if(n.vq("Caminata"))p.push(B.bGn)
 else p.push(new A.bH("He salido a caminar",B.em,new A.bpd(),B.q,!0,s))
@@ -140561,7 +140561,7 @@ $1(a){var s,r,q,p,o,n=null,m=t.p,l=A.a([],m)
 for(s=this.a,r=s.length,q=0;q<s.length;s.length===r||(0,A.q)(s),++q){p=s[q]
 o=A.cZ("EEEE","es").da(p)
 o=o.length===0?o:o[0].toUpperCase()+B.d.cZ(o,1)
-l.push(A.lN(n,B.i,A.i(o+" "+p.gW(),n,n,n,n,n,n,n),B.b8,new A.bsB(a,p),B.k7,n,n))}return A.ey(!0,new A.a4(B.f3,A.V(A.a([B.bzN,B.al,B.bzh,B.F,A.cF(B.ar,l,B.az,8,8)],m),B.o,B.f,B.ag,0,B.l),n),!1,B.a1,!0)},
+l.push(A.lN(n,B.i,A.i(o+" "+p.gW(),n,n,n,n,n,n,n),B.b8,new A.bsB(a,p),B.k7,n,n))}return A.ey(!0,new A.a4(B.f3,A.V(A.a([B.bzM,B.al,B.bzg,B.F,A.cF(B.ar,l,B.az,8,8)],m),B.o,B.f,B.ag,0,B.l),n),!1,B.a1,!0)},
 $S:50}
 A.bsB.prototype={
 $0(){return A.ai(this.a,!1).d1(this.b)},
@@ -140572,7 +140572,7 @@ A.aYv.prototype={
 $2(a,b){var s,r,q,p,o,n=null,m=$.z(),l=this.a,k=l.c,j=l.d,i=m.CH(k,j),h=m.aY5(k,j)
 if(i.length===0&&h.length===0)return B.bd
 m=t.p
-k=A.a([B.bz6],m)
+k=A.a([B.bz5],m)
 for(s=0;s<i.length;++s){j=A.aX(B.cr,$.P.a,n,18)
 r=i[s]
 q=r.b
@@ -140595,7 +140595,7 @@ p=r.b
 o=A.a([new A.cm(1,B.ao,new A.ao(A.V(A.a([A.i(q,m,m,m,B.a2q,m,m,m),A.i(p,m,m,m,B.ay,m,m,m)],k),B.k,B.f,B.h,0,B.l),B.i,m,B.kl,new A.b4e(a,r),m),m)],k)
 n=B.b.gap(B.Pm)
 if(!(r.$s===n.$s&&q===n.a&&p===n.b))o.push(B.aX)
-B.b.E(i,o)}return new A.ao(A.V(A.a([j,B.aH,B.bxn,B.F,A.a3(i,B.k,B.f,B.h,0,m,m),new A.es(B.hk,m,m,A.c5(B.byS,m,m,new A.b4f(),m,A.fd(m,m,m,m,m,m,m,m,m,m,m,B.W,m,m,m,m,m,m,m,m,m,m,m,m,m,m)),m)],k),B.o,B.f,B.h,0,B.l),l.c,m,B.N,m,m)}}
+B.b.E(i,o)}return new A.ao(A.V(A.a([j,B.aH,B.bxn,B.F,A.a3(i,B.k,B.f,B.h,0,m,m),new A.es(B.hk,m,m,A.c5(B.byR,m,m,new A.b4f(),m,A.fd(m,m,m,m,m,m,m,m,m,m,m,B.W,m,m,m,m,m,m,m,m,m,m,m,m,m,m)),m)],k),B.o,B.f,B.h,0,B.l),l.c,m,B.N,m,m)}}
 A.b4e.prototype={
 $0(){$.z().ai8(!0)
 A.aqN(this.a,this.b.b)},
@@ -140772,7 +140772,7 @@ s=!s
 o=t.p
 p=A.a([A.ah(A.bCg(B.At,A.i(s&&!k?"Empezar":"Movilidad 10 min",n,n,n,n,B.aI,n,n),new A.blF(this,l,k,j),p),1)],o)
 if(s&&!k)B.b.E(p,A.a([B.ah,A.ah(A.Mw(B.ajs,B.bAx,new A.blG(this,l),A.bDQ(n,n,n,n,n,n,n,n,n,B.i,n,B.a1D,n,n,new A.dm(A.bf(16),B.L),B.a4Z,n,n,B.bV,n)),1)],o))
-return new A.ao(A.V(A.a([B.bzB,B.al,r,B.aH,q,B.ap,A.a3(p,B.k,B.f,B.h,0,n,n)],o),B.o,B.f,B.h,0,B.l),B.i,B.pO,B.N,n,n)}}
+return new A.ao(A.V(A.a([B.bzA,B.al,r,B.aH,q,B.ap,A.a3(p,B.k,B.f,B.h,0,n,n)],o),B.o,B.f,B.h,0,B.l),B.i,B.pO,B.N,n,n)}}
 A.blF.prototype={
 $0(){var s=this,r=s.b
 r=r!=null&&!s.c?r:s.d
@@ -140812,7 +140812,7 @@ if(p>0)q.push(""+p+" pasos hoy")
 if(o>0)q.push(A.iU(o*1000)+" esta semana")
 q=B.b.bK(q," \xb7 ")
 s=t.p
-return new A.ao(A.V(A.a([A.a3(A.a([B.bzs,B.aF,A.ah(A.V(A.a([B.bA1,A.i(q.length===0?"Rutas cerca de ti y grabaci\xf3n con GPS":q,r,r,r,B.aJ,r,r,r)],s),B.o,B.f,B.h,0,B.l),1)],s),B.k,B.f,B.h,0,r,r),B.F,A.a3(A.a([A.ah(new A.bH("Rutas",B.pD,new A.bmS(a),B.q,!0,r),1),B.ah,A.ah(new A.bH("Grabar",B.mL,new A.bmT(a),B.q,!1,r),1)],s),B.k,B.f,B.h,0,r,r),new A.es(B.dq,r,r,A.hh(B.ake,B.a2C,new A.bmU(a),r),r)],s),B.o,B.f,B.h,0,B.l),B.i,r,B.N,r,r)}}
+return new A.ao(A.V(A.a([A.a3(A.a([B.bzr,B.aF,A.ah(A.V(A.a([B.bA0,A.i(q.length===0?"Rutas cerca de ti y grabaci\xf3n con GPS":q,r,r,r,B.aJ,r,r,r)],s),B.o,B.f,B.h,0,B.l),1)],s),B.k,B.f,B.h,0,r,r),B.F,A.a3(A.a([A.ah(new A.bH("Rutas",B.pD,new A.bmS(a),B.q,!0,r),1),B.ah,A.ah(new A.bH("Grabar",B.mL,new A.bmT(a),B.q,!1,r),1)],s),B.k,B.f,B.h,0,r,r),new A.es(B.dq,r,r,A.hh(B.ake,B.a2C,new A.bmU(a),r),r)],s),B.o,B.f,B.h,0,B.l),B.i,r,B.N,r,r)}}
 A.bmS.prototype={
 $0(){return A.ai(this.a,!1).cX(A.cv(new A.bmP(),!1,null,t.z))},
 $S:0}
@@ -140900,7 +140900,7 @@ q=A.byF(g)
 p=i.length
 o=p===1?"caminata":"caminatas"
 n=t.p
-n=A.a([new A.ao(A.V(A.a([B.bzP,B.w,A.a3(A.a([new A.AB(r,"caminados",l),new A.AB(q,"pasos",l),new A.AB(""+f,"kcal",l),new A.AB(""+p,o,l)],n),B.k,B.f,B.h,0,l,l)],n),B.o,B.f,B.h,0,B.l),B.q,l,B.N,l,l),B.K],n)
+n=A.a([new A.ao(A.V(A.a([B.bzO,B.w,A.a3(A.a([new A.AB(r,"caminados",l),new A.AB(q,"pasos",l),new A.AB(""+f,"kcal",l),new A.AB(""+p,o,l)],n),B.k,B.f,B.h,0,l,l)],n),B.o,B.f,B.h,0,B.l),B.q,l,B.N,l,l),B.K],n)
 r=k.length
 if(r===0)n.push(B.b2L)
 else for(m=0;m<k.length;k.length===r||(0,A.q)(k),++m)n.push(new A.a4(B.e_,new A.aou(k[m],l),l))
@@ -142022,7 +142022,7 @@ o=A.V(A.a([A.i("Antes de empezar",k,k,k,A.aW(k,k,k,k,k,k,k,k,k,k,k,16,k,k,B.ad,k
 n=l.d
 m=A.bBh($.P.a,B.a1,B.pP,new A.boT(l),B.by_,n)
 n=n?new A.boU(l):k
-return A.ez(k,k,A.ey(!0,A.cR(A.a([B.a7X,B.F,B.bzr,B.aH,B.bA_,B.cN,new A.ao(r,B.i,k,B.N,k,k),B.F,new A.ao(o,B.bf,k,B.N,k,k),B.w,m,B.w,new A.bH("Empezar",B.Ad,n,k,!1,k)],s),k,B.acv,k,!1),!1,B.a1,!0),k,k)}}
+return A.ez(k,k,A.ey(!0,A.cR(A.a([B.a7X,B.F,B.bzq,B.aH,B.bzZ,B.cN,new A.ao(r,B.i,k,B.N,k,k),B.F,new A.ao(o,B.bf,k,B.N,k,k),B.w,m,B.w,new A.bH("Empezar",B.Ad,n,k,!1,k)],s),k,B.acv,k,!1),!1,B.a1,!0),k,k)}}
 A.boS.prototype={
 $2(a,b){var s=this.a
 return s.H(new A.boR(s))},
@@ -145746,7 +145746,7 @@ l=A.a([],m)
 for(k=0;k<14;++k){j=B.aqr[k]
 i=A.i(j.b+" \xb7 "+A.bzA(j.a).a,d,d,d,d,d,d,d)
 h=$.P
-l.push(A.lN(d,h.c,i,new A.p(!0,h.a,d,d,d,d,d,B.aj,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d),new A.b1h(e,j),B.L,d,d))}r=A.a([n,B.bwD,B.al,r,B.ap,B.bmE,B.w,A.cF(B.ar,l,B.az,8,8),B.a3,B.bzT],m)
+l.push(A.lN(d,h.c,i,new A.p(!0,h.a,d,d,d,d,d,B.aj,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d),new A.b1h(e,j),B.L,d,d))}r=A.a([n,B.bwD,B.al,r,B.ap,B.bmE,B.w,A.cF(B.ar,l,B.az,8,8),B.a3,B.bzS],m)
 for(k=0;k<5;++k){g=B.avO[k]
 n=A.a([],m)
 for(l=B.b.gaa(B.B5),i=new A.kC(l,new A.b1i(g));i.v();){h=l.gP()
@@ -145836,7 +145836,7 @@ m=n.i("J.E")
 s=A.R(new A.a_(l,new A.b2j(),n),m)
 r=A.R(new A.a_(l,new A.b2k(),n),m)
 n=t.p
-m=A.a([B.bxZ,B.al,B.byW],n)
+m=A.a([B.bxZ,B.al,B.byV],n)
 if(o!=null)B.b.E(m,A.a([B.a3,new A.bH("Quitar el postre",B.f5,new A.b2l(p,a),B.q,!0,null)],n))
 m.push(B.ap)
 m.push(B.bmv)
@@ -145900,7 +145900,7 @@ $1(a){return new A.nu(new A.btd(this.a),null)},
 $S:102}
 A.btd.prototype={
 $2(a,b){var s=null,r=this.a
-return A.ey(!0,A.i2(A.V(A.a([B.bxp,B.al,B.bxx,B.ap,new A.Jh(r.a,new A.btb(r,b),s),B.io,A.bI(A.pX(B.bz8,new A.btc(r,a),s),s,1/0)],t.p),B.o,B.f,B.ag,0,B.l),B.zb,s,B.aB),!1,B.a1,!0)},
+return A.ey(!0,A.i2(A.V(A.a([B.bxp,B.al,B.bxx,B.ap,new A.Jh(r.a,new A.btb(r,b),s),B.io,A.bI(A.pX(B.bz7,new A.btc(r,a),s),s,1/0)],t.p),B.o,B.f,B.ag,0,B.l),B.zb,s,B.aB),!1,B.a1,!0)},
 $S:1030}
 A.btb.prototype={
 $1(a){return this.b.$1(new A.bta(this.a,a))},
@@ -145922,7 +145922,7 @@ A.bth.prototype={
 $2(a,b){var s,r,q,p,o,n=this,m=null,l=n.a,k=$.hP().h(0,l)
 k=k==null?m:k.b
 s=t.p
-k=A.a([A.i("Cambiar \xab"+(k==null?l:k)+"\xbb",m,m,m,B.bU,m,m,m),B.al,B.bzu,B.ap],s)
+k=A.a([A.i("Cambiar \xab"+(k==null?l:k)+"\xbb",m,m,m,B.bU,m,m,m),B.al,B.bzt,B.ap],s)
 r=n.b
 if(l!==r&&n.c!=null)B.b.E(k,A.a([new A.Ts(n.c,"Volver al original",m,B.j4,new A.btf(a,r),m),B.a3],s))
 l=n.d
@@ -146049,7 +146049,7 @@ A.btX.prototype={
 $1(a){return A.BT(new A.btW(),null,!1,0.85,0.95,0.25,!1,null)},
 $S:90}
 A.btW.prototype={
-$2(a,b){var s,r,q,p,o,n,m=null,l=t.p,k=A.a([B.bwQ,B.al,B.bzo],l)
+$2(a,b){var s,r,q,p,o,n,m=null,l=t.p,k=A.a([B.bwQ,B.al,B.bzn],l)
 for(s=0;s<4;++s){r=B.aVO[s]
 q=A.a([],l)
 for(p=J.bi(r.b);p.v();){o=p.gP()
@@ -146153,10 +146153,10 @@ q=r.a
 n=A.aX(B.cr,q,l,18)
 s.push(A.lN(n,r.c,A.i($.z().ch.length===0?"Guardar un producto con su etiqueta":"Nuevo producto",l,l,l,l,l,l,l),A.aW(l,l,q,l,l,l,l,l,l,l,l,l,l,l,B.S,l,l,!0,l,l,l,l,l,l,l,l),m.gaIl(),B.L,l,l))
 s=A.cF(B.ar,s,B.az,8,8)
-r=A.dY(!1,B.T,!0,A.bf(16),A.kn(!1,l,l,l,!0,l,l,l,!0,l,B.byF,l,l,l,l,m.gaLf(),!1,l,l,new A.dm(A.bf(16),B.L),l,l,B.bwG,l,B.bxt,l,B.kD,l),B.z,B.i,0,l,l,l,l,l,B.bZ)
+r=A.dY(!1,B.T,!0,A.bf(16),A.kn(!1,l,l,l,!0,l,l,l,!0,l,B.byE,l,l,l,l,m.gaLf(),!1,l,l,new A.dm(A.bf(16),B.L),l,l,B.bwG,l,B.bxt,l,B.kD,l),B.z,B.i,0,l,l,l,l,l,B.bZ)
 q=A.a([],h)
 for(p=0;p<10;++p){o=B.aNO[p]
-q.push(A.lN(l,B.i,A.i(o.b+" \xb7 "+o.a+" kcal",l,l,l,l,l,l,l),B.b8,new A.b48(m,o),B.k7,l,l))}return new A.a4(new A.a5(16,0,16,k.f.d+24),A.i2(A.V(A.a([B.by1,B.al,B.bzS,B.ap,new A.lA("\xbfEn qu\xe9 comida?",l),new A.M_(j,i,new A.b49(m),l),B.K,new A.lA("Recetas",l),g,B.K,new A.lA("Mis productos",l),s,B.K,new A.lA("Caprichos y ocasiones",l),r,B.K,new A.lA("R\xe1pido",l),A.cF(B.ar,q,B.az,8,8),B.K,new A.lA("Otra cosa",l),A.eA(l,B.j,!1,l,!0,B.E,l,A.eQ(),m.d,l,l,l,l,l,2,A.vY("\xbfQu\xe9 has comido?",l),B.a_,!0,l,!0,l,!1,l,B.b5,l,l,l,l,B.x6,l,l,l,1,l,l,!1,"\u2022",l,l,l,l,l,!1,l,l,!1,l,!0,l,B.bm,l,l,l,l,l,l,l,l,l,l,l,l,!0,B.am,l,B.cO,l,l,l,l),B.w,A.a3(A.a([A.ah(A.eA(l,B.j,!1,l,!0,B.E,l,A.eQ(),m.e,l,l,l,l,l,2,A.vY("kcal",l),B.a_,!0,l,!0,l,!1,l,B.b5,l,l,l,l,B.dl,l,l,l,1,l,l,!1,"\u2022",l,l,l,l,l,!1,l,l,!1,l,!0,l,B.bm,l,l,l,l,l,l,l,l,l,l,l,l,!0,B.am,l,B.cO,l,l,l,l),1),B.aX,A.ah(A.eA(l,B.j,!1,l,!0,B.E,l,A.eQ(),m.f,l,l,l,l,l,2,A.vY("Prote\xedna (g)",l),B.a_,!0,l,!0,l,!1,l,B.b5,l,l,l,l,B.dl,l,l,l,1,l,l,!1,"\u2022",l,l,l,l,l,!1,l,l,!1,l,!0,l,B.bm,l,l,l,l,l,l,l,l,l,l,l,l,!0,B.am,l,B.cO,l,l,l,l),1)],h),B.k,B.f,B.h,0,l,l),B.ap,new A.bH("A\xf1adir",B.cr,new A.b4a(m),l,!1,l)],h),B.o,B.f,B.ag,0,B.l),l,l,B.aB),l)}}
+q.push(A.lN(l,B.i,A.i(o.b+" \xb7 "+o.a+" kcal",l,l,l,l,l,l,l),B.b8,new A.b48(m,o),B.k7,l,l))}return new A.a4(new A.a5(16,0,16,k.f.d+24),A.i2(A.V(A.a([B.by1,B.al,B.bzR,B.ap,new A.lA("\xbfEn qu\xe9 comida?",l),new A.M_(j,i,new A.b49(m),l),B.K,new A.lA("Recetas",l),g,B.K,new A.lA("Mis productos",l),s,B.K,new A.lA("Caprichos y ocasiones",l),r,B.K,new A.lA("R\xe1pido",l),A.cF(B.ar,q,B.az,8,8),B.K,new A.lA("Otra cosa",l),A.eA(l,B.j,!1,l,!0,B.E,l,A.eQ(),m.d,l,l,l,l,l,2,A.vY("\xbfQu\xe9 has comido?",l),B.a_,!0,l,!0,l,!1,l,B.b5,l,l,l,l,B.x6,l,l,l,1,l,l,!1,"\u2022",l,l,l,l,l,!1,l,l,!1,l,!0,l,B.bm,l,l,l,l,l,l,l,l,l,l,l,l,!0,B.am,l,B.cO,l,l,l,l),B.w,A.a3(A.a([A.ah(A.eA(l,B.j,!1,l,!0,B.E,l,A.eQ(),m.e,l,l,l,l,l,2,A.vY("kcal",l),B.a_,!0,l,!0,l,!1,l,B.b5,l,l,l,l,B.dl,l,l,l,1,l,l,!1,"\u2022",l,l,l,l,l,!1,l,l,!1,l,!0,l,B.bm,l,l,l,l,l,l,l,l,l,l,l,l,!0,B.am,l,B.cO,l,l,l,l),1),B.aX,A.ah(A.eA(l,B.j,!1,l,!0,B.E,l,A.eQ(),m.f,l,l,l,l,l,2,A.vY("Prote\xedna (g)",l),B.a_,!0,l,!0,l,!1,l,B.b5,l,l,l,l,B.dl,l,l,l,1,l,l,!1,"\u2022",l,l,l,l,l,!1,l,l,!1,l,!0,l,B.bm,l,l,l,l,l,l,l,l,l,l,l,l,!0,B.am,l,B.cO,l,l,l,l),1)],h),B.k,B.f,B.h,0,l,l),B.ap,new A.bH("A\xf1adir",B.cr,new A.b4a(m),l,!1,l)],h),B.o,B.f,B.ag,0,B.l),l,l,B.aB),l)}}
 A.b45.prototype={
 $1(a){var s,r
 this.a.a=!0
@@ -146375,7 +146375,7 @@ r.toString
 A.ai(r,!1).d1(n)},
 q(a){var s=this,r=null,q=A.ay(a,r,t.l).w,p=s.gtB()==null,o=t.p
 o=A.a([A.i(p?"Nuevo producto":"Cambiar producto",r,r,r,B.bU,r,r,r),B.al,B.bAy,B.ap,A.eA(r,B.j,!1,r,!0,B.E,r,A.eQ(),s.gQV(),r,r,r,r,r,2,A.vY("Nombre (p. ej. Almendras fritas)",r),B.a_,!0,r,!0,r,!1,r,B.b5,r,r,r,r,r,r,r,r,1,r,r,!1,"\u2022",r,r,r,r,r,!1,r,r,!1,r,!0,r,B.bm,r,r,r,r,r,r,r,r,r,r,r,r,!0,B.am,r,B.cO,r,r,r,r),B.w,A.a3(A.a([A.ah(A.eA(r,B.j,!1,r,!0,B.E,r,A.eQ(),s.gQU(),r,r,r,r,r,2,A.vY("kcal por 100 g",r),B.a_,!0,r,!0,r,!1,r,B.b5,r,r,r,r,B.dl,r,r,r,1,r,r,!1,"\u2022",r,r,r,r,r,!1,r,r,!1,r,!0,r,B.bm,r,r,r,r,r,r,r,r,r,r,r,r,!0,B.am,r,B.db,r,r,r,r),1),B.aX,A.ah(A.eA(r,B.j,!1,r,!0,B.E,r,A.eQ(),s.gQX(),r,r,r,r,r,2,A.vY("Prote\xedna por 100 g",r),B.a_,!0,r,!0,r,!1,r,B.b5,r,r,r,r,B.dl,r,r,r,1,r,r,!1,"\u2022",r,r,r,r,r,!1,r,r,!1,r,!0,r,B.bm,r,r,r,r,r,r,r,r,r,r,r,r,!0,B.am,r,B.db,r,r,r,r),1)],o),B.k,B.f,B.h,0,r,r),B.K,new A.lA("Lo que sueles tomar",r),A.a3(A.a([A.ah(A.eA(r,B.j,!1,r,!0,B.E,r,A.eQ(),s.gQW(),r,r,r,r,r,2,A.vY("Raci\xf3n (pu\xf1ado, vaso\u2026)",r),B.a_,!0,r,!0,r,!1,r,B.b5,r,r,r,r,r,r,r,r,1,r,r,!1,"\u2022",r,r,r,r,r,!1,r,r,!1,r,!0,r,B.bm,r,r,r,r,r,r,r,r,r,r,r,r,!0,B.am,r,B.db,r,r,r,r),1),B.aX,A.ah(A.eA(r,B.j,!1,r,!0,B.E,r,A.eQ(),s.gSU(),r,r,r,r,r,2,A.vY("Gramos","g"),B.a_,!0,r,!0,r,!1,r,B.b5,r,r,r,r,B.dl,r,r,r,1,r,r,!1,"\u2022",r,r,r,r,r,!1,r,r,!1,r,!0,r,B.bm,r,r,r,r,r,r,r,r,r,r,r,r,!0,B.am,r,B.db,r,r,r,r),1)],o),B.k,B.f,B.h,0,r,r),B.aH,B.bwv,B.K,new A.bH("Guardar",B.bB,s.gazL(),r,!1,r)],o)
-if(!p)o.push(A.dW(A.c5(B.byO,r,r,new A.bbX(s,a),r,r),r,r))
+if(!p)o.push(A.dW(A.c5(B.byN,r,r,new A.bbX(s,a),r,r),r,r))
 return new A.a4(new A.a5(16,0,16,q.f.d+24),A.i2(A.V(o,B.o,B.f,B.ag,0,B.l),r,r,B.aB),r)}}
 A.bbX.prototype={
 $0(){var s=$.z(),r=this.a.gtB()
@@ -146464,7 +146464,7 @@ o.push(h.a57(j,k+" "+j,new A.b4Y(n,h)))}o=A.cF(B.ar,o,B.az,8,8)
 n=A.eA(g,B.j,!1,g,!0,B.E,g,A.eQ(),h.e,g,g,g,g,g,2,h.Rk("Nombre"),B.a_,!0,g,!0,g,!1,g,B.b5,g,g,g,g,g,g,g,g,1,g,g,!1,"\u2022",g,g,g,g,g,!1,g,g,!1,g,!0,g,B.bm,g,g,g,g,g,g,g,g,g,g,g,g,!0,B.am,g,B.cO,g,g,g,g)
 l=A.a3(A.a([A.ah(A.eA(g,B.j,!1,g,!0,B.E,g,A.eQ(),h.gBk(),g,g,g,g,g,2,h.Rk("kcal aproximadas"),B.a_,!0,g,!0,g,!1,g,B.b5,g,g,g,g,B.dl,g,g,g,1,g,g,!1,"\u2022",g,g,g,g,g,!1,g,g,!1,g,!0,g,B.bm,g,g,g,g,g,g,g,g,g,g,g,g,!0,B.am,g,B.db,g,g,g,g),1),B.ah,A.ah(A.eA(g,B.j,!1,g,!0,B.E,g,A.eQ(),h.gBl(),g,g,g,g,g,2,h.Rk("Prote\xedna (g)"),B.a_,!0,g,!0,g,!1,g,B.b5,g,g,g,g,B.dl,g,g,g,1,g,g,!1,"\u2022",g,g,g,g,g,!1,g,g,!1,g,!0,g,B.bm,g,g,g,g,g,g,g,g,g,g,g,g,!0,B.am,g,B.db,g,g,g,g),1)],r),B.k,B.f,B.h,0,g,g)
 i=A.aX(f?B.j4:B.py,g,g,g)
-return A.bI(A.cR(A.a([s,B.bA9,B.al,B.bxe,B.ap,B.bmH,B.w,q,B.ap,B.bmG,B.w,o,B.K,n,B.a3,l,B.K,new A.bH("Guardar",B.bB,h.gaAu(),g,!1,g),B.w,A.hh(i,A.i(f?"Quitar el d\xeda libre y volver al plan":"Hacer libre todo el d\xeda",g,g,g,g,g,g,g),new A.b4Z(h,f,a),g)],r),g,new A.a5(16,0,16,24+e.f.d),g,!1),d.a.b*0.88,g)}}
+return A.bI(A.cR(A.a([s,B.bA8,B.al,B.bxe,B.ap,B.bmH,B.w,q,B.ap,B.bmG,B.w,o,B.K,n,B.a3,l,B.K,new A.bH("Guardar",B.bB,h.gaAu(),g,!1,g),B.w,A.hh(i,A.i(f?"Quitar el d\xeda libre y volver al plan":"Hacer libre todo el d\xeda",g,g,g,g,g,g,g),new A.b4Z(h,f,a),g)],r),g,new A.a5(16,0,16,24+e.f.d),g,!1),d.a.b*0.88,g)}}
 A.b4W.prototype={
 $0(){var s,r,q,p=this.a
 p.w=this.b
@@ -146520,8 +146520,8 @@ s=A.a3(A.a([B.ajn,B.ah,A.ah(A.i(n.b,o,o,o,B.ha,o,o,o),1)],m),B.k,B.f,B.h,0,o,o)
 r=A.i(n.c,o,o,o,B.o3,o,o,o)
 q=A.JZ(B.ef,o,o,o,o,o,o)
 q=A.a([A.pX(A.i(n.d,o,o,o,B.ay,o,o,o),new A.aCr(p,a),q)],m)
-if(l)q.push(A.c5(B.bza,o,o,new A.aCs(p,a),o,o))
-q.push(A.c5(B.bz5,o,o,new A.aCt(p),o,o))
+if(l)q.push(A.c5(B.bz9,o,o,new A.aCs(p,a),o,o))
+q.push(A.c5(B.bz4,o,o,new A.aCt(p),o,o))
 return new A.ao(A.V(A.a([s,B.aH,r,B.F,A.cF(B.ar,q,B.xE,4,8)],m),B.o,B.f,B.h,0,B.l),B.Fr,o,B.N,o,o)}}
 A.aCq.prototype={
 $1(a){return B.a_L},
@@ -146558,7 +146558,7 @@ $1(a){return this.$2$bold(a,!1)},
 $S:1038}
 A.btm.prototype={
 $1(a){var s=null,r=this.a
-return A.ey(!0,A.i2(A.V(A.a([A.i(r.e+" "+r.c,s,s,s,B.bU,s,s,s),B.bT,A.i(r.d,s,s,s,B.eu,s,s,s),B.a3,B.bwM,new A.Kp(r,s,s),B.F,B.bzU],t.p),B.o,B.f,B.h,0,B.l),B.zb,s,B.aB),!1,B.a1,!0)},
+return A.ey(!0,A.i2(A.V(A.a([A.i(r.e+" "+r.c,s,s,s,B.bU,s,s,s),B.bT,A.i(r.d,s,s,s,B.eu,s,s,s),B.a3,B.bwM,new A.Kp(r,s,s),B.F,B.bzT],t.p),B.o,B.f,B.h,0,B.l),B.zb,s,B.aB),!1,B.a1,!0)},
 $S:50}
 A.ct.prototype={
 gJl(){var s=this
@@ -146746,7 +146746,7 @@ k=A.i("Cuanto m\xe1s intenso, m\xe1s series. Lo ideal son unas 10 series por m\x
 p=this.d
 n=p?170:210
 m=t.p
-n=A.a([B.bzx,B.al,k,B.F,new A.a6r(s,n,l),B.a3,A.i(o,l,l,l,B.but,l,l,l)],m)
+n=A.a([B.bzw,B.al,k,B.F,new A.a6r(s,n,l),B.a3,A.i(o,l,l,l,B.but,l,l,l)],m)
 if(!p&&j.length!==0){k=A.a([B.ap],m)
 for(p=j.length,r=0;r<j.length;j.length===p||(0,A.q)(j),++r){q=j[r]
 m=s.h(0,q)
@@ -146776,7 +146776,7 @@ A.ak0.prototype={
 q(a){var s,r,q,p,o,n,m,l,k,j=this,i=null,h=$.z().z,g=A.aXQ(A.brv()),f=A.a0(h).i("c0<1>"),e=A.R(new A.c0(h,f),f.i("at.E")),d=j.e?e:A.ep(e,0,A.h8(5,"count",t.S),A.a0(e).c).f_(0)
 f=t.p
 s=A.a([B.bx6,B.a3],f)
-if(h.length<2)s.push(B.bA4)
+if(h.length<2)s.push(B.bA3)
 else{r=A.a([],f)
 for(q=0;q<4;++q){p=B.atZ[q]
 o=A.i(p.c,i,i,i,i,i,i,i)
@@ -147201,7 +147201,7 @@ if(f>0){g=f===B.c.iC(f)?B.c.a1(f,0):B.c.a1(f,1)
 h=A.b_(g,".",",")+" kg \xd7 "+h.b}else h=""+h.b+" con tu peso"
 h=A.V(A.a([j,A.i(i+" \xb7 antes "+h,b,b,b,B.bk,b,b,b)],a1),B.o,B.f,B.h,0,B.l)
 k=k.a
-n.push(new A.a4(B.abU,A.a3(A.a([B.bAl,B.aF,new A.cm(1,B.ao,h,b),A.i(A.cZ("d MMM","es").da(k),b,b,b,B.bk,b,b,b)],a1),B.k,B.f,B.h,0,b,b),b))}B.b.E(o,A.a([B.bmn,B.w,new A.ao(A.V(n,B.k,B.f,B.h,0,B.l),B.i,b,B.km,b,b),B.K],a1))}o.push(B.bmM)
+n.push(new A.a4(B.abU,A.a3(A.a([B.bAk,B.aF,new A.cm(1,B.ao,h,b),A.i(A.cZ("d MMM","es").da(k),b,b,b,B.bk,b,b,b)],a1),B.k,B.f,B.h,0,b,b),b))}B.b.E(o,A.a([B.bmn,B.w,new A.ao(A.V(n,B.k,B.f,B.h,0,B.l),B.i,b,B.km,b,b),B.K],a1))}o.push(B.bmM)
 o.push(B.w)
 a7=A.a([],a1)
 for(n=p.length,l=0;l<p.length;p.length===n||(0,A.q)(p),++l){e=p[l]
@@ -147303,7 +147303,7 @@ A.bcK.prototype={
 $1(a){var s,r,q,p,o=null,n=this.a,m=t.p,l=A.a([A.i(n.gnZ(),o,o,o,B.bU,o,o,o),A.i("Mejor serie: "+A.bJK(n.gadG()),o,o,o,B.b4,o,o,o),B.ap],m),k=this.b
 if(k.length!==0){s=A.w2(B.c.O(B.b.gap(k)*2)/2)
 r=k.length>=2&&B.b.gap(k)>B.b.gS(k)?" ("+A.w2(B.c.O((B.b.gap(k)-B.b.gS(k))*2)/2)+" m\xe1s que al empezar)":""
-r=A.a([B.byQ,B.al,A.i("Con tu mejor serie podr\xedas levantar unos "+s+" una sola vez"+r+".",o,o,o,B.eu,o,o,o)],m)
+r=A.a([B.byP,B.al,A.i("Con tu mejor serie podr\xedas levantar unos "+s+" una sola vez"+r+".",o,o,o,B.eu,o,o,o)],m)
 if(k.length>=2)B.b.E(r,A.a([B.F,A.bI(new A.S2(k,B.ef,o),150,o)],m))
 B.b.E(l,A.a([new A.ao(A.V(r,B.o,B.f,B.h,0,B.l),B.i,o,B.N,o,o),B.F],m))}k=n.b
 s=J.b2(k)
@@ -147617,7 +147617,7 @@ A.bra.prototype={
 $1(a){return a.b.toLowerCase()===B.d.cL(this.a).toLowerCase()},
 $S:81}
 A.brb.prototype={
-$1(a){var s,r,q,p,o=new A.brd(a),n=new A.brc(),m=A.a([B.bA2,B.w],t.p)
+$1(a){var s,r,q,p,o=new A.brd(a),n=new A.brc(),m=A.a([B.bA1,B.w],t.p)
 if(this.a==null)m.push(o.$4("Lista nueva: "+this.b,"Solo con lo de esta receta",B.bH1,B.j2))
 m.push(o.$4("Men\xfa de la semana","Junto a la compra de tu men\xfa",B.bH0,B.Aq))
 for(s=$.z().r,r=s.length,q=0;q<s.length;s.length===r||(0,A.q)(s),++q){p=s[q]
@@ -153865,8 +153865,8 @@ B.blR=new A.qZ(B.aY,B.f,B.h,B.k,null,B.l,null,0,B.axD,null)
 B.i=new A.I(1,1,1,1,B.m)
 B.N=new A.a5(18,18,18,18)
 B.a4q=new A.ao(B.blR,B.i,null,B.N,null,null)
-B.byw=new A.Q("Apunta los kilos y las repeticiones en tus entrenos guiados y aqu\xed ver\xe1s c\xf3mo ganas fuerza.",null,B.eu,null,null,null,null,null,null,null)
-B.a4r=new A.ao(B.byw,B.i,null,B.N,null,null)
+B.byv=new A.Q("Apunta los kilos y las repeticiones en tus entrenos guiados y aqu\xed ver\xe1s c\xf3mo ganas fuerza.",null,B.eu,null,null,null,null,null,null,null)
+B.a4r=new A.ao(B.byv,B.i,null,B.N,null,null)
 B.dR=new A.p(!0,B.W,null,null,null,null,null,null,null,null,null,null,1.35,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.by8=new A.Q("Esta lista est\xe1 vac\xeda. Pulsa \xabA\xf1adir\xbb para apuntar lo que necesitas.",null,B.dR,null,null,null,null,null,null,null)
 B.a4s=new A.ao(B.by8,B.i,null,B.N,null,null)
@@ -153874,12 +153874,12 @@ B.aB=new A.Z2(1,"vertical")
 B.o=new A.wF(0,"start")
 B.ad=new A.kf(900)
 B.e8=new A.p(!0,null,null,null,null,null,16,B.ad,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.bzk=new A.Q("Escucha a tu cuerpo",null,B.e8,null,null,null,null,null,null,null)
+B.bzj=new A.Q("Escucha a tu cuerpo",null,B.e8,null,null,null,null,null,null,null)
 B.aH=new A.cD(null,6,null,null)
 B.o3=new A.p(!0,null,null,null,null,null,14,null,null,null,null,null,1.35,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.bzz=new A.Q("Estira hasta notar tensi\xf3n suave, nunca dolor, y para si algo te molesta m\xe1s.",null,B.o3,null,null,null,null,null,null,null)
-B.byr=new A.Q("Consulta con un profesional sanitario si el dolor es fuerte o no mejora, baja por un brazo o una pierna, notas hormigueo o p\xe9rdida de fuerza, o apareci\xf3 tras un golpe. Estos ejercicios no sustituyen su consejo.",null,B.o3,null,null,null,null,null,null,null)
-B.aVK=s([B.bzk,B.aH,B.bzz,B.aH,B.byr],t.p)
+B.bzy=new A.Q("Estira hasta notar tensi\xf3n suave, nunca dolor, y para si algo te molesta m\xe1s.",null,B.o3,null,null,null,null,null,null,null)
+B.byq=new A.Q("Consulta con un profesional sanitario si el dolor es fuerte o no mejora, baja por un brazo o una pierna, notas hormigueo o p\xe9rdida de fuerza, o apareci\xf3 tras un golpe. Estos ejercicios no sustituyen su consejo.",null,B.o3,null,null,null,null,null,null,null)
+B.aVK=s([B.bzj,B.aH,B.bzy,B.aH,B.byq],t.p)
 B.aa7=new A.pH(B.aB,B.f,B.h,B.o,null,B.l,null,0,B.aVK,null)
 B.bf=new A.I(1,1,0.9137254901960784,0.9019607843137255,B.m)
 B.a4t=new A.ao(B.aa7,B.bf,null,B.N,null,null)
@@ -153890,8 +153890,8 @@ B.bwN=new A.Q("Estiramientos (5 min, 30 s cada uno sin rebotar): pecho contra el
 B.awV=s([B.bxU,B.F,B.bwN],t.p)
 B.aa8=new A.pH(B.aB,B.f,B.h,B.o,null,B.l,null,0,B.awV,null)
 B.a4u=new A.ao(B.aa8,B.i,null,B.N,null,null)
-B.bA5=new A.Q("No hay parques ni senderos marcados cerca. Crea una vuelta.",null,null,null,null,null,null,null,null,null)
-B.a4v=new A.ao(B.bA5,B.i,null,B.N,null,null)
+B.bA4=new A.Q("No hay parques ni senderos marcados cerca. Crea una vuelta.",null,null,null,null,null,null,null,null,null)
+B.a4v=new A.ao(B.bA4,B.i,null,B.N,null,null)
 B.ya=new A.HV(0,"exit")
 B.E1=new A.HV(1,"cancel")
 B.hl=new A.mO(0,"detached")
@@ -154419,11 +154419,11 @@ B.a7W=new A.kU(B.Y,null,null,B.a4m,null)
 B.b2N=new A.LM(110,null)
 B.a7X=new A.kU(B.Y,null,null,B.b2N,null)
 B.bti=new A.p(!0,null,null,null,null,null,64,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.bAb=new A.Q("\ud83c\udf7d\ufe0f",null,B.bti,null,null,null,null,null,null,null)
-B.a7Y=new A.kU(B.Y,null,null,B.bAb,null)
+B.bAa=new A.Q("\ud83c\udf7d\ufe0f",null,B.bti,null,null,null,null,null,null,null)
+B.a7Y=new A.kU(B.Y,null,null,B.bAa,null)
 B.b4=new A.p(!0,B.W,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.bz1=new A.Q("No hay ejercicios con ese nombre.",null,B.b4,null,null,null,null,null,null,null)
-B.a7Z=new A.kU(B.Y,null,null,B.bz1,null)
+B.bz0=new A.Q("No hay ejercicios con ese nombre.",null,B.b4,null,null,null,null,null,null,null)
+B.a7Z=new A.kU(B.Y,null,null,B.bz0,null)
 B.a2f=new A.p(!0,null,null,null,null,null,28,B.ad,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.bx8=new A.Q("\xa1A comer!",null,B.a2f,null,null,null,null,null,null,null)
 B.a8_=new A.kU(B.Y,null,null,B.bx8,null)
@@ -155002,24 +155002,24 @@ B.ae2=new A.cm(1,B.ao,B.aa9,null)
 B.bxs=new A.Q("Comidas",null,B.o0,null,null,null,null,null,null,null)
 B.ae4=new A.cm(1,B.ao,B.bxs,null)
 B.ay=new A.p(!0,null,null,null,null,null,null,B.S,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.byl=new A.Q("\xbfTienes un peso al que quieras llegar?",null,B.ay,null,null,null,null,null,null,null)
-B.ae5=new A.cm(1,B.ao,B.byl,null)
+B.byk=new A.Q("\xbfTienes un peso al que quieras llegar?",null,B.ay,null,null,null,null,null,null,null)
+B.ae5=new A.cm(1,B.ao,B.byk,null)
 B.ha=new A.p(!0,null,null,null,null,null,17,B.ad,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.byz=new A.Q("\xbfQu\xe9 tienes en casa?",null,B.ha,null,null,null,null,null,null,null)
-B.ae6=new A.cm(1,B.ao,B.byz,null)
+B.byy=new A.Q("\xbfQu\xe9 tienes en casa?",null,B.ha,null,null,null,null,null,null,null)
+B.ae6=new A.cm(1,B.ao,B.byy,null)
 B.bGl=new A.afy(null)
 B.Gp=new A.cm(1,B.ao,B.bGl,null)
 B.bmA=new A.bC("Parques y senderos cerca",null)
 B.ae7=new A.cm(1,B.ao,B.bmA,null)
 B.cP=new A.p(!0,null,null,null,null,null,17,B.S,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.bzX=new A.Q("Calendario del plan",null,B.cP,null,null,null,null,null,null,null)
-B.ae8=new A.cm(1,B.ao,B.bzX,null)
+B.bzW=new A.Q("Calendario del plan",null,B.cP,null,null,null,null,null,null,null)
+B.ae8=new A.cm(1,B.ao,B.bzW,null)
 B.bmw=new A.bC("Entrenos y caminatas",null)
 B.ae9=new A.cm(1,B.ao,B.bmw,null)
 B.bGm=new A.afz(null)
 B.Gq=new A.cm(1,B.ao,B.bGm,null)
-B.bzl=new A.Q("Act\xedvalo para ver el batido en Hoy y que cuente en tu prote\xedna.",null,B.ev,null,null,null,null,null,null,null)
-B.aea=new A.cm(1,B.ao,B.bzl,null)
+B.bzk=new A.Q("Act\xedvalo para ver el batido en Hoy y que cuente en tu prote\xedna.",null,B.ev,null,null,null,null,null,null,null)
+B.aea=new A.cm(1,B.ao,B.bzk,null)
 B.aeb=new A.C4(null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Gr=new A.jx("Algo",1,"algo")
 B.zP=new A.jx("Empiezo de cero",0,"empezando")
@@ -155547,8 +155547,8 @@ B.am4=new A.xL(1,"titleHeight")
 B.am5=new A.xL(2,"top")
 B.I5=new A.xL(3,"center")
 B.am6=new A.xL(4,"bottom")
-B.bAd=new A.Q("Cambiar el nombre",null,null,null,null,null,null,null,null,null)
-B.am7=new A.ow(B.pI,B.bAd,null,null,null,null,null,null,null,B.a1,!0,null,null,!1,null,null,null,!1,null,null,null,null,null,null,null,null,!0,null,null)
+B.bAc=new A.Q("Cambiar el nombre",null,null,null,null,null,null,null,null,null)
+B.am7=new A.ow(B.pI,B.bAc,null,null,null,null,null,null,null,B.a1,!0,null,null,!1,null,null,null,!1,null,null,null,null,null,null,null,null,!0,null,null)
 B.byg=new A.Q("Borrar la lista",null,null,null,null,null,null,null,null,null)
 B.am8=new A.ow(B.Hx,B.byg,null,null,null,null,null,null,null,B.a1,!0,null,null,!1,null,null,null,!1,null,null,null,null,null,null,null,null,!0,null,null)
 B.I6=s(["de gen.","de febr.","de mar\xe7","d\u2019abr.","de maig","de juny","de jul.","d\u2019ag.","de set.","d\u2019oct.","de nov.","de des."],t.s)
@@ -156081,8 +156081,8 @@ B.lV=new A.rH(0,"distance")
 B.by7=new A.Q("Distancia",null,null,null,null,null,null,null,null,null)
 B.a5U=new A.e4(B.lV,null,B.by7,t.yK)
 B.bHd=new A.rH(1,"time")
-B.bzd=new A.Q("Tiempo",null,null,null,null,null,null,null,null,null)
-B.a5Z=new A.e4(B.bHd,null,B.bzd,t.yK)
+B.bzc=new A.Q("Tiempo",null,null,null,null,null,null,null,null,null)
+B.a5Z=new A.e4(B.bHd,null,B.bzc,t.yK)
 B.aqS=s([B.a5U,B.a5Z],A.ak("B<e4<rH>>"))
 B.Jv=s(["\u043f\u0440\u0435\u0434 \u043d\u0430\u0448\u0430\u0442\u0430 \u0435\u0440\u0430","\u043e\u0434 \u043d\u0430\u0448\u0430\u0442\u0430 \u0435\u0440\u0430"],t.s)
 B.aqY=s(["Arial"],t.s)
@@ -156365,8 +156365,8 @@ B.re=s(["ika-1 quarter","ika-2 quarter","ika-3 quarter","ika-4 na quarter"],t.s)
 B.Kl=s(["Suku pertama","Suku Ke-2","Suku Ke-3","Suku Ke-4"],t.s)
 B.Km=s(["1. \u010dtvrtlet\xed","2. \u010dtvrtlet\xed","3. \u010dtvrtlet\xed","4. \u010dtvrtlet\xed"],t.s)
 B.rf=s(["\u0a9c\u0abe\u0aa8\u0acd\u0aaf\u0ac1\u0a86\u0ab0\u0ac0","\u0aab\u0ac7\u0aac\u0acd\u0ab0\u0ac1\u0a86\u0ab0\u0ac0","\u0aae\u0abe\u0ab0\u0acd\u0a9a","\u0a8f\u0aaa\u0acd\u0ab0\u0abf\u0ab2","\u0aae\u0ac7","\u0a9c\u0ac2\u0aa8","\u0a9c\u0ac1\u0ab2\u0abe\u0a88","\u0a91\u0a97\u0ab8\u0acd\u0a9f","\u0ab8\u0aaa\u0acd\u0a9f\u0ac7\u0aae\u0acd\u0aac\u0ab0","\u0a91\u0a95\u0acd\u0a9f\u0acb\u0aac\u0ab0","\u0aa8\u0ab5\u0ac7\u0aae\u0acd\u0aac\u0ab0","\u0aa1\u0abf\u0ab8\u0ac7\u0aae\u0acd\u0aac\u0ab0"],t.s)
-B.byv=new A.Q("Sumar",null,null,null,null,null,null,null,null,null)
-B.a5W=new A.e4(!1,B.j5,B.byv,t.Mt)
+B.byu=new A.Q("Sumar",null,null,null,null,null,null,null,null,null)
+B.a5W=new A.e4(!1,B.j5,B.byu,t.Mt)
 B.bxP=new A.Q("Quitar",null,null,null,null,null,null,null,null,null)
 B.a63=new A.e4(!0,B.HF,B.bxP,t.Mt)
 B.ats=s([B.a5W,B.a63],t.st)
@@ -157177,11 +157177,11 @@ B.Lt=s(["\u0a2a\u0a39\u0a3f\u0a32\u0a40 \u0a24\u0a3f\u0a2e\u0a3e\u0a39\u0a40","\
 B.awf=s(["Telovolana voalohany","Telovolana faharoa","Telovolana fahatelo","Telovolana fahefatra"],t.s)
 B.rM=s(["\u0cad\u0cbe\u0ca8\u0cc1\u0cb5\u0cbe\u0cb0","\u0cb8\u0ccb\u0cae\u0cb5\u0cbe\u0cb0","\u0cae\u0c82\u0c97\u0cb3\u0cb5\u0cbe\u0cb0","\u0cac\u0cc1\u0ca7\u0cb5\u0cbe\u0cb0","\u0c97\u0cc1\u0cb0\u0cc1\u0cb5\u0cbe\u0cb0","\u0cb6\u0cc1\u0c95\u0ccd\u0cb0\u0cb5\u0cbe\u0cb0","\u0cb6\u0ca8\u0cbf\u0cb5\u0cbe\u0cb0"],t.s)
 B.ih=new A.jK(0,"hombre")
-B.bzI=new A.Q("Hombre",null,null,null,null,null,null,null,null,null)
-B.a5Y=new A.e4(B.ih,null,B.bzI,t._l)
+B.bzH=new A.Q("Hombre",null,null,null,null,null,null,null,null,null)
+B.a5Y=new A.e4(B.ih,null,B.bzH,t._l)
 B.wW=new A.jK(1,"mujer")
-B.byn=new A.Q("Mujer",null,null,null,null,null,null,null,null,null)
-B.a64=new A.e4(B.wW,null,B.byn,t._l)
+B.bym=new A.Q("Mujer",null,null,null,null,null,null,null,null,null)
+B.a64=new A.e4(B.wW,null,B.bym,t._l)
 B.awk=s([B.a5Y,B.a64],A.ak("B<e4<jK>>"))
 B.rN=s(["S","M","D","W","D","V","S"],t.s)
 B.Lu=s(["vm.","nm."],t.s)
@@ -158216,17 +158216,17 @@ B.WH=new A.lh(8,"symbolModifier")
 B.PO=s([B.la,B.lb,B.lc,B.ld,B.BL,B.BM,B.BN,B.BO,B.WH],A.ak("B<lh>"))
 B.vr=s(["E","P","M","A","M","Hun","Hul","Ago","Set","Okt","Nob","Dis"],t.s)
 B.a40=new A.nR(0,"resumen")
-B.bzV=new A.Q("Resumen",null,null,null,null,null,null,null,null,null)
-B.a61=new A.e4(B.a40,null,B.bzV,t.g0)
+B.bzU=new A.Q("Resumen",null,null,null,null,null,null,null,null,null)
+B.a61=new A.e4(B.a40,null,B.bzU,t.g0)
 B.bIq=new A.nR(1,"cuerpo")
-B.byp=new A.Q("Cuerpo",null,null,null,null,null,null,null,null,null)
-B.a66=new A.e4(B.bIq,null,B.byp,t.g0)
+B.byo=new A.Q("Cuerpo",null,null,null,null,null,null,null,null,null)
+B.a66=new A.e4(B.bIq,null,B.byo,t.g0)
 B.bIr=new A.nR(2,"fuerza")
 B.bxq=new A.Q("Fuerza",null,null,null,null,null,null,null,null,null)
 B.a62=new A.e4(B.bIr,null,B.bxq,t.g0)
 B.bIs=new A.nR(3,"habitos")
-B.bA0=new A.Q("H\xe1bitos",null,null,null,null,null,null,null,null,null)
-B.a5X=new A.e4(B.bIs,null,B.bA0,t.g0)
+B.bA_=new A.Q("H\xe1bitos",null,null,null,null,null,null,null,null,null)
+B.a5X=new A.e4(B.bIs,null,B.bA_,t.g0)
 B.aTo=s([B.a61,B.a66,B.a62,B.a5X],A.ak("B<e4<nR>>"))
 B.PP=s(["Kabla ya Kristo","Baada ya Kristo"],t.s)
 B.PQ=s(["\u0db4\u0dd9.\u0dc0.","\u0db4.\u0dc0."],t.s)
@@ -161818,7 +161818,7 @@ B.a0r=new A.r_(!1)
 B.a0s=new A.r_(!0)
 B.b2G=new A.S(B.b4D,[B.yW,B.yZ,B.yX,B.mv,B.mw,B.yY,B.kr,B.ks,B.ks,B.kr,B.kv,B.kw,B.pj,B.pk,B.mD,B.mE,B.pn,B.po,B.iZ,B.j_,B.GE,B.GF,B.GA,B.GB,B.iZ,B.j_,B.kt,B.ku,B.Gn,B.Go,B.zN,B.zO,B.EO,B.a0r,B.a0s,B.Cw,B.wI,B.pp,B.pq,B.EC,B.yk,B.EI],A.ak("S<f,c2>"))
 B.b3U={"User-Agent":0}
-B.wg=new A.S(B.b3U,["MiDia/1.64.1 (app de salud)"],t.w)
+B.wg=new A.S(B.b3U,["MiDia/1.64.2 (app de salud)"],t.w)
 B.b4b={BU:0,DD:1,FX:2,TP:3,YD:4,ZR:5}
 B.h_=new A.S(B.b4b,["MM","DE","FR","TL","YE","CD"],t.w)
 B.b61=new A.O(458752)
@@ -162018,10 +162018,10 @@ B.b5x=new A.nf(3,"tooSlow")
 B.X9=new A.nf(4,"tooFast")
 B.b5y=new A.nf(5,"wrongWay")
 B.b5z=new A.nf(6,"moving")
-B.byo=new A.Q("Dile a FrutiFit cu\xe1ndo abres un bote y te avisar\xe1 cuando se est\xe9 acabando.",null,B.dR,null,null,null,null,null,null,null)
-B.b5A=new A.a4(B.e_,B.byo,null)
-B.byE=new A.Q("No hay recetas con ese nombre.",null,null,B.aI,null,null,null,null,null,null)
-B.b5B=new A.a4(B.kn,B.byE,null)
+B.byn=new A.Q("Dile a FrutiFit cu\xe1ndo abres un bote y te avisar\xe1 cuando se est\xe9 acabando.",null,B.dR,null,null,null,null,null,null,null)
+B.b5A=new A.a4(B.e_,B.byn,null)
+B.byD=new A.Q("No hay recetas con ese nombre.",null,null,B.aI,null,null,null,null,null,null)
+B.b5B=new A.a4(B.kn,B.byD,null)
 B.bvP=new A.p(!0,B.q,null,null,null,null,12,B.S,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.bwS=new A.Q("Cambiado por ti",null,B.bvP,null,null,null,null,null,null,null)
 B.b5C=new A.a4(B.mz,B.bwS,null)
@@ -162029,15 +162029,15 @@ B.bwt=new A.Q("Todas las recetas con prote\xedna en polvo. Si comes una (en el m
 B.b5D=new A.a4(B.dx,B.bwt,null)
 B.acs=new A.a5(20,0,20,4)
 B.eU=new A.p(!0,null,null,null,null,null,20,B.ad,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.bz9=new A.Q("Recetas eliminadas",null,B.eU,null,null,null,null,null,null,null)
-B.b5E=new A.a4(B.acs,B.bz9,null)
+B.bz8=new A.Q("Recetas eliminadas",null,B.eU,null,null,null,null,null,null,null)
+B.b5E=new A.a4(B.acs,B.bz8,null)
 B.bxz=new A.Q("A\xf1ade al menos un ejercicio para guardarla.",null,B.b4,null,null,null,null,null,null,null)
 B.b5F=new A.a4(B.e_,B.bxz,null)
-B.bzJ=new A.Q("No hay ejercicios con ese nombre.",null,B.b4,B.aI,null,null,null,null,null,null)
-B.b5G=new A.a4(B.kn,B.bzJ,null)
+B.bzI=new A.Q("No hay ejercicios con ese nombre.",null,B.b4,B.aI,null,null,null,null,null,null)
+B.b5G=new A.a4(B.kn,B.bzI,null)
 B.G1=new A.a5(0,12,10,12)
-B.bAa=new A.Q(u.N,null,B.b4,null,null,null,null,null,null,null)
-B.b5H=new A.a4(B.G1,B.bAa,null)
+B.bA9=new A.Q(u.N,null,B.b4,null,null,null,null,null,null,null)
+B.b5H=new A.a4(B.G1,B.bA9,null)
 B.by3=new A.Q("Debajo de cada una tienes ideas que acercan el d\xeda a tu objetivo. Toca una para ponerla.",null,B.aJ,null,null,null,null,null,null,null)
 B.b5I=new A.a4(B.zd,B.by3,null)
 B.b8=new A.p(!0,null,null,null,null,null,null,B.aj,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
@@ -162053,27 +162053,27 @@ B.b5M=new A.a4(B.pg,B.bAt,null)
 B.aid=new A.a6(63203,"MaterialIcons",!1)
 B.ak5=new A.b9(B.aid,null,B.W,null,null)
 B.b5N=new A.a4(B.mB,B.ak5,null)
-B.bz_=new A.Q('Se apuntan solos al terminar un entreno guiado o al pulsar "He salido a caminar".',null,B.b4,null,null,null,null,null,null,null)
-B.b5O=new A.a4(B.G1,B.bz_,null)
+B.byZ=new A.Q('Se apuntan solos al terminar un entreno guiado o al pulsar "He salido a caminar".',null,B.b4,null,null,null,null,null,null,null)
+B.b5O=new A.a4(B.G1,B.byZ,null)
 B.abV=new A.a5(0,8,0,0)
 B.bua=new A.p(!0,B.fL,null,null,null,null,13,B.aj,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.bwB=new A.Q("Ya tienes 3: si todo es prioridad, nada lo es.",null,B.bua,null,null,null,null,null,null,null)
 B.b5P=new A.a4(B.abV,B.bwB,null)
 B.o2=new A.p(!0,B.W,null,null,null,null,13,null,null,null,null,null,1.35,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.bz7=new A.Q("Si tienes alg\xfan problema de ri\xf1\xf3n o est\xe1s embarazada, pregunta antes a tu m\xe9dico.",null,B.o2,null,null,null,null,null,null,null)
-B.b5Q=new A.a4(B.f4,B.bz7,null)
-B.byB=new A.Q("Cada semana del plan empieza el mismo d\xeda de la semana que el d\xeda 1. Ese d\xeda toca la compra, el pesaje y el primer entreno de la semana.",null,B.o2,null,null,null,null,null,null,null)
-B.b5R=new A.a4(B.pg,B.byB,null)
+B.bz6=new A.Q("Si tienes alg\xfan problema de ri\xf1\xf3n o est\xe1s embarazada, pregunta antes a tu m\xe9dico.",null,B.o2,null,null,null,null,null,null,null)
+B.b5Q=new A.a4(B.f4,B.bz6,null)
+B.byA=new A.Q("Cada semana del plan empieza el mismo d\xeda de la semana que el d\xeda 1. Ese d\xeda toca la compra, el pesaje y el primer entreno de la semana.",null,B.o2,null,null,null,null,null,null,null)
+B.b5R=new A.a4(B.pg,B.byA,null)
 B.ail=new A.a6(63625,"MaterialIcons",!1)
 B.ajl=new A.b9(B.ail,20,B.W,null,null)
 B.b5S=new A.a4(B.iV,B.ajl,null)
-B.byP=new A.Q("Toca una comida para ver la receta o cambiarla por otra cosa.",null,B.aJ,null,null,null,null,null,null,null)
-B.b5T=new A.a4(B.pg,B.byP,null)
+B.byO=new A.Q("Toca una comida para ver la receta o cambiarla por otra cosa.",null,B.aJ,null,null,null,null,null,null,null)
+B.b5T=new A.a4(B.pg,B.byO,null)
 B.acE=new A.a5(6,0,0,0)
 B.ak6=new A.b9(B.kB,16,B.q,null,null)
 B.b5U=new A.a4(B.acE,B.ak6,null)
-B.bzM=new A.Q("Toca una para cambiarla. A la derecha, las calor\xedas de m\xe1s o de menos que la actual.",null,B.aJ,null,null,null,null,null,null,null)
-B.b5V=new A.a4(B.zd,B.bzM,null)
+B.bzL=new A.Q("Toca una para cambiarla. A la derecha, las calor\xedas de m\xe1s o de menos que la actual.",null,B.aJ,null,null,null,null,null,null,null)
+B.b5V=new A.a4(B.zd,B.bzL,null)
 B.byd=new A.Q("Los cambios se guardan solos.",null,B.b4,null,null,null,null,null,null,null)
 B.b5W=new A.a4(B.e_,B.byd,null)
 B.a_D=new A.a7r(null)
@@ -162242,9 +162242,9 @@ B.bxS=new A.Q("\xa1Nuevos r\xe9cords!",null,B.a2p,null,null,null,null,null,null,
 B.awZ=s([B.Hz,B.aX,B.bxS],t.p)
 B.blS=new A.qZ(B.aY,B.f,B.h,B.k,null,B.l,null,0,B.awZ,null)
 B.bk=new A.p(!0,B.W,null,null,null,null,12,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.bym=new A.Q("Hace 2 semanas",null,B.bk,null,null,null,null,null,null,null)
-B.byX=new A.Q("Hoy",null,B.bk,null,null,null,null,null,null,null)
-B.asq=s([B.bym,B.byX],t.p)
+B.byl=new A.Q("Hace 2 semanas",null,B.bk,null,null,null,null,null,null,null)
+B.byW=new A.Q("Hoy",null,B.bk,null,null,null,null,null,null,null)
+B.asq=s([B.byl,B.byW],t.p)
 B.blT=new A.qZ(B.aY,B.jo,B.h,B.k,null,B.l,null,0,B.asq,null)
 B.blU=new A.NY(1333)
 B.Cs=new A.NY(2222)
@@ -162634,20 +162634,20 @@ B.bq2=new A.nr(3,"hide")
 B.bJw=new A.nr(4,"remove")
 B.bq3=new A.nr(5,"timeout")
 B.bq4=new A.E8(null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.byG=new A.Q("Pon un nombre.",null,null,null,null,null,null,null,null,null)
-B.bq5=new A.lr(B.byG,null,null,null,null,null,null,null,null,null,null,null,null,B.b2,!1,null,null,null,B.E,null)
-B.bzw=new A.Q("Datos actualizados desde tu Google Drive.",null,null,null,null,null,null,null,null,null)
-B.a1K=new A.lr(B.bzw,null,null,null,null,null,null,null,null,null,null,null,null,B.b2,!1,null,null,null,B.E,null)
+B.byF=new A.Q("Pon un nombre.",null,null,null,null,null,null,null,null,null)
+B.bq5=new A.lr(B.byF,null,null,null,null,null,null,null,null,null,null,null,null,B.b2,!1,null,null,null,B.E,null)
+B.bzv=new A.Q("Datos actualizados desde tu Google Drive.",null,null,null,null,null,null,null,null,null)
+B.a1K=new A.lr(B.bzv,null,null,null,null,null,null,null,null,null,null,null,null,B.b2,!1,null,null,null,B.E,null)
 B.bwX=new A.Q("Guardada. No hay app de correo para enviarla.",null,null,null,null,null,null,null,null,null)
 B.bq6=new A.lr(B.bwX,null,null,null,null,null,null,null,null,null,null,null,null,B.b2,!1,null,null,null,B.E,null)
-B.byA=new A.Q("A\xf1adida a la lista de la compra",null,null,null,null,null,null,null,null,null)
-B.bq7=new A.lr(B.byA,null,null,null,null,null,null,null,null,null,null,null,null,B.b2,!1,null,null,null,B.E,null)
+B.byz=new A.Q("A\xf1adida a la lista de la compra",null,null,null,null,null,null,null,null,null)
+B.bq7=new A.lr(B.byz,null,null,null,null,null,null,null,null,null,null,null,null,B.b2,!1,null,null,null,B.E,null)
 B.bwE=new A.Q("Pon un nombre y las calor\xedas aproximadas.",null,null,null,null,null,null,null,null,null)
 B.bq8=new A.lr(B.bwE,null,null,null,null,null,null,null,null,null,null,null,null,B.b2,!1,null,null,null,B.E,null)
-B.bA6=new A.Q("No hay app de correo. Escribe a apps.aleexx@icloud.com",null,null,null,null,null,null,null,null,null)
-B.bq9=new A.lr(B.bA6,null,null,null,null,null,null,null,null,null,null,null,null,B.b2,!1,null,null,null,B.E,null)
-B.byC=new A.Q("Pon el nombre, las calor\xedas por 100 g y los gramos de la raci\xf3n.",null,null,null,null,null,null,null,null,null)
-B.bqa=new A.lr(B.byC,null,null,null,null,null,null,null,null,null,null,null,null,B.b2,!1,null,null,null,B.E,null)
+B.bA5=new A.Q("No hay app de correo. Escribe a apps.aleexx@icloud.com",null,null,null,null,null,null,null,null,null)
+B.bq9=new A.lr(B.bA5,null,null,null,null,null,null,null,null,null,null,null,null,B.b2,!1,null,null,null,B.E,null)
+B.byB=new A.Q("Pon el nombre, las calor\xedas por 100 g y los gramos de la raci\xf3n.",null,null,null,null,null,null,null,null,null)
+B.bqa=new A.lr(B.byB,null,null,null,null,null,null,null,null,null,null,null,null,B.b2,!1,null,null,null,B.E,null)
 B.a1L=new A.OO(0,"permissive")
 B.bqb=new A.OO(1,"normal")
 B.bqc=new A.OO(2,"forced")
@@ -163224,115 +163224,115 @@ B.Dd=new A.Q("Guardar",null,null,null,null,null,null,null,null,null)
 B.byc=new A.Q("Toca un d\xeda para ver lo que hiciste o corregirlo.",null,B.bk,null,null,null,null,null,null,null)
 B.byf=new A.Q("\xbfSalir del entreno?",null,null,null,null,null,null,null,null,null)
 B.byh=new A.Q("Tiempo m\xe1ximo por receta",null,B.ay,null,null,null,null,null,null,null)
-B.bsY=new A.p(!0,B.W,null,null,null,null,10,B.dz,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.byi=new A.Q("v1.64.1",null,B.bsY,null,null,null,null,null,null,null)
-B.byj=new A.Q("Estirar y cuidarte",null,null,null,null,null,null,null,null,null)
-B.byk=new A.Q("Ya he calentado, ir al entreno",null,null,null,null,null,null,null,null,null)
-B.byq=new A.Q("\xbfC\xf3mo te ha ido?",null,B.ha,null,null,null,null,null,null,null)
-B.bys=new A.Q("\xbfCu\xe1nta agua?",null,B.bU,null,null,null,null,null,null,null)
-B.byt=new A.Q("Siguiente paso",null,null,null,null,null,null,null,null,null)
-B.byu=new A.Q("Desmarcar todo",null,null,null,null,null,null,null,null,null)
+B.byi=new A.Q("Estirar y cuidarte",null,null,null,null,null,null,null,null,null)
+B.byj=new A.Q("Ya he calentado, ir al entreno",null,null,null,null,null,null,null,null,null)
+B.byp=new A.Q("\xbfC\xf3mo te ha ido?",null,B.ha,null,null,null,null,null,null,null)
+B.byr=new A.Q("\xbfCu\xe1nta agua?",null,B.bU,null,null,null,null,null,null,null)
+B.bys=new A.Q("Siguiente paso",null,null,null,null,null,null,null,null,null)
+B.byt=new A.Q("Desmarcar todo",null,null,null,null,null,null,null,null,null)
 B.a2u=new A.p(!0,B.W,null,null,null,null,16,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.byx=new A.Q("Estira 5 minutos y come algo en las pr\xf3ximas 1-2 horas.",null,B.a2u,B.aI,null,null,null,null,null,null)
-B.byy=new A.Q("A\xf1adir",null,B.ay,null,null,null,null,null,null,null)
-B.byD=new A.Q("Copiar a otro d\xeda",null,null,null,null,null,null,null,null,null)
-B.byF=new A.Q("\ud83c\udf7f",null,B.Da,null,null,null,null,null,null,null)
-B.byH=new A.Q("Toca lo que se te olvid\xf3 marcar o desm\xe1rcalo si no lo hiciste.",null,B.aJ,null,null,null,null,null,null,null)
+B.byw=new A.Q("Estira 5 minutos y come algo en las pr\xf3ximas 1-2 horas.",null,B.a2u,B.aI,null,null,null,null,null,null)
+B.byx=new A.Q("A\xf1adir",null,B.ay,null,null,null,null,null,null,null)
+B.byC=new A.Q("Copiar a otro d\xeda",null,null,null,null,null,null,null,null,null)
+B.byE=new A.Q("\ud83c\udf7f",null,B.Da,null,null,null,null,null,null,null)
+B.byG=new A.Q("Toca lo que se te olvid\xf3 marcar o desm\xe1rcalo si no lo hiciste.",null,B.aJ,null,null,null,null,null,null,null)
 B.a2z=new A.Q("Hoy",null,B.e8,null,null,null,null,null,null,null)
-B.byI=new A.Q("Recuperar todas",null,null,null,null,null,null,null,null,null)
-B.byJ=new A.Q("Volver a la original",null,null,null,null,null,null,null,null,null)
-B.byK=new A.Q("Men\xfa",null,null,null,null,null,null,null,null,null)
-B.byL=new A.Q("Un cacito de prote\xedna de chocolate con un vaso de leche: unas 280 kcal y 32 g de prote\xedna.",null,B.a2e,null,null,null,null,null,null,null)
-B.byM=new A.Q("Sal, aceite y especias se dan por hechos.",null,B.aJ,null,null,null,null,null,null,null)
-B.byN=new A.Q("\xbfD\xf3nde compras?",null,B.cP,null,null,null,null,null,null,null)
-B.byO=new A.Q("Borrar producto",null,B.o1,null,null,null,null,null,null,null)
-B.byQ=new A.Q("Fuerza m\xe1xima estimada",null,B.ay,null,null,null,null,null,null,null)
-B.byR=new A.Q("\xbfC\xf3mo se hace?",null,B.xl,null,null,null,null,null,null,null)
-B.byS=new A.Q("Ahora no",null,null,null,null,null,null,null,null,null)
-B.byT=new A.Q("Seguir editando",null,null,null,null,null,null,null,null,null)
-B.byU=new A.Q("Si tienes problemas de ri\xf1\xf3n, de tensi\xf3n o de coraz\xf3n, pregunta a tu m\xe9dico qu\xe9 agua te conviene: estos consejos son generales.",null,B.aJ,null,null,null,null,null,null,null)
-B.byV=new A.Q("No la he hecho",null,B.ay,null,null,null,null,null,null,null)
-B.byW=new A.Q("Sus calor\xedas se suman a las de esta comida.",null,B.b4,null,null,null,null,null,null,null)
-B.byY=new A.Q("\xbfA qu\xe9 comida la a\xf1ades?",null,B.eU,null,null,null,null,null,null,null)
+B.byH=new A.Q("Recuperar todas",null,null,null,null,null,null,null,null,null)
+B.byI=new A.Q("Volver a la original",null,null,null,null,null,null,null,null,null)
+B.byJ=new A.Q("Men\xfa",null,null,null,null,null,null,null,null,null)
+B.byK=new A.Q("Un cacito de prote\xedna de chocolate con un vaso de leche: unas 280 kcal y 32 g de prote\xedna.",null,B.a2e,null,null,null,null,null,null,null)
+B.byL=new A.Q("Sal, aceite y especias se dan por hechos.",null,B.aJ,null,null,null,null,null,null,null)
+B.byM=new A.Q("\xbfD\xf3nde compras?",null,B.cP,null,null,null,null,null,null,null)
+B.byN=new A.Q("Borrar producto",null,B.o1,null,null,null,null,null,null,null)
+B.byP=new A.Q("Fuerza m\xe1xima estimada",null,B.ay,null,null,null,null,null,null,null)
+B.byQ=new A.Q("\xbfC\xf3mo se hace?",null,B.xl,null,null,null,null,null,null,null)
+B.byR=new A.Q("Ahora no",null,null,null,null,null,null,null,null,null)
+B.byS=new A.Q("Seguir editando",null,null,null,null,null,null,null,null,null)
+B.byT=new A.Q("Si tienes problemas de ri\xf1\xf3n, de tensi\xf3n o de coraz\xf3n, pregunta a tu m\xe9dico qu\xe9 agua te conviene: estos consejos son generales.",null,B.aJ,null,null,null,null,null,null,null)
+B.byU=new A.Q("No la he hecho",null,B.ay,null,null,null,null,null,null,null)
+B.byV=new A.Q("Sus calor\xedas se suman a las de esta comida.",null,B.b4,null,null,null,null,null,null,null)
+B.byX=new A.Q("\xbfA qu\xe9 comida la a\xf1ades?",null,B.eU,null,null,null,null,null,null,null)
 B.buz=new A.p(!0,B.q,null,null,null,null,13,B.S,null,0.8,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.byZ=new A.Q("SIGUIENTE MOVIMIENTO",null,B.buz,null,null,null,null,null,null,null)
-B.bz0=new A.Q("Toca para a\xf1adir:",null,B.aJ,null,null,null,null,null,null,null)
-B.bz2=new A.Q("Ya no tomo prote\xedna en polvo",null,null,null,null,null,null,null,null,null)
+B.byY=new A.Q("SIGUIENTE MOVIMIENTO",null,B.buz,null,null,null,null,null,null,null)
+B.bz_=new A.Q("Toca para a\xf1adir:",null,B.aJ,null,null,null,null,null,null,null)
+B.bz1=new A.Q("Ya no tomo prote\xedna en polvo",null,null,null,null,null,null,null,null,null)
 B.bvX=new A.p(!0,null,null,null,null,null,12,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.bz3=new A.Q("Productos de Lidl: datos de Open Food Facts, licencia ODbL",null,B.bvX,B.aI,null,null,null,null,null,null)
-B.bz4=new A.Q("\xbfDesmarcar toda la lista?",null,null,null,null,null,null,null,null,null)
-B.bz5=new A.Q("Ahora no",null,B.b4,null,null,null,null,null,null,null)
-B.bz6=new A.Q("A\xf1adido a esta comida",null,B.xc,null,null,null,null,null,null,null)
-B.bz8=new A.Q("Guardar",null,B.ay,null,null,null,null,null,null,null)
-B.bza=new A.Q("Cambiar objetivo",null,B.ay,null,null,null,null,null,null,null)
+B.bz2=new A.Q("Productos de Lidl: datos de Open Food Facts, licencia ODbL",null,B.bvX,B.aI,null,null,null,null,null,null)
+B.bz3=new A.Q("\xbfDesmarcar toda la lista?",null,null,null,null,null,null,null,null,null)
+B.bz4=new A.Q("Ahora no",null,B.b4,null,null,null,null,null,null,null)
+B.bz5=new A.Q("A\xf1adido a esta comida",null,B.xc,null,null,null,null,null,null,null)
+B.bz7=new A.Q("Guardar",null,B.ay,null,null,null,null,null,null,null)
+B.bz9=new A.Q("Cambiar objetivo",null,B.ay,null,null,null,null,null,null,null)
 B.bsy=new A.p(!0,B.q,null,null,null,null,null,null,null,null,null,null,1.3,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.bzb=new A.Q("Ese peso queda por debajo del rango saludable para tu altura. Elige otro o cons\xfaltalo con un profesional.",null,B.bsy,B.aI,null,null,null,null,null,null)
-B.bzc=new A.Q("Sin hambre al levantarte: empieza por el batido y desayuna 2-3 horas despu\xe9s.",null,B.xf,null,null,null,null,null,null,null)
-B.bze=new A.Q("Busca en la etiqueta",null,B.e8,null,null,null,null,null,null,null)
-B.bzf=new A.Q("Hoy no toca rutina",null,B.xk,null,null,null,null,null,null,null)
-B.bzg=new A.Q("Tama\xf1o del bote",null,B.ay,null,null,null,null,null,null,null)
-B.bzh=new A.Q("Se pone esta misma comida a la misma hora del d\xeda.",null,B.b4,null,null,null,null,null,null,null)
+B.bza=new A.Q("Ese peso queda por debajo del rango saludable para tu altura. Elige otro o cons\xfaltalo con un profesional.",null,B.bsy,B.aI,null,null,null,null,null,null)
+B.bzb=new A.Q("Sin hambre al levantarte: empieza por el batido y desayuna 2-3 horas despu\xe9s.",null,B.xf,null,null,null,null,null,null,null)
+B.bzd=new A.Q("Busca en la etiqueta",null,B.e8,null,null,null,null,null,null,null)
+B.bze=new A.Q("Hoy no toca rutina",null,B.xk,null,null,null,null,null,null,null)
+B.bzf=new A.Q("Tama\xf1o del bote",null,B.ay,null,null,null,null,null,null,null)
+B.bzg=new A.Q("Se pone esta misma comida a la misma hora del d\xeda.",null,B.b4,null,null,null,null,null,null,null)
 B.a2A=new A.Q("Borrar",null,null,null,null,null,null,null,null,null)
-B.bzi=new A.Q("Mira lo que toca y cambia los platos que no te apetezcan.",null,B.aJ,null,null,null,null,null,null,null)
-B.bzj=new A.Q("Con esto ajusto el peso de la pr\xf3xima vez.",null,B.b4,null,null,null,null,null,null,null)
-B.bzm=new A.Q("Progreso",null,null,null,null,null,null,null,null,null)
-B.bzn=new A.Q("Prote\xedna en polvo y creatina",null,B.b8,null,null,null,null,null,null,null)
-B.bzo=new A.Q("Un d\xeda de cine, una bolsa de patatas a media tarde\u2026 Ap\xfantalo sin culpa: lo importante es saber cu\xe1nto suma. Son raciones habituales, aproximadas.",null,B.b4,null,null,null,null,null,null,null)
-B.bzp=new A.Q("\xbfVolver a la rutina original?",null,null,null,null,null,null,null,null,null)
-B.bzq=new A.Q("Por qu\xe9 esta",null,B.e8,null,null,null,null,null,null,null)
-B.bzr=new A.Q("Te damos la bienvenida a FrutiFit",null,B.a2f,B.aI,null,null,null,null,null,null)
-B.bzs=new A.Q("\ud83d\udeb6",null,B.xi,null,null,null,null,null,null,null)
-B.bzt=new A.Q("Si te apetece, sal a caminar 1-2 horas y a\xf1ade una comida extra (un bocadillo o un batido).",null,B.D7,null,null,null,null,null,null,null)
-B.bzu=new A.Q("Ejercicios que trabajan lo mismo. Se mantienen las series y los descansos.",null,B.eu,null,null,null,null,null,null,null)
-B.bzv=new A.Q("Eliminar",null,null,null,null,null,null,null,null,null)
-B.bzx=new A.Q("M\xfasculos de esta semana",null,B.cP,null,null,null,null,null,null,null)
-B.bzy=new A.Q("Eliminar",null,B.o1,null,null,null,null,null,null,null)
-B.bzA=new A.Q("A\xf1adir otra comida",null,null,null,null,null,null,null,null,null)
+B.bzh=new A.Q("Mira lo que toca y cambia los platos que no te apetezcan.",null,B.aJ,null,null,null,null,null,null,null)
+B.bzi=new A.Q("Con esto ajusto el peso de la pr\xf3xima vez.",null,B.b4,null,null,null,null,null,null,null)
+B.bzl=new A.Q("Progreso",null,null,null,null,null,null,null,null,null)
+B.bzm=new A.Q("Prote\xedna en polvo y creatina",null,B.b8,null,null,null,null,null,null,null)
+B.bzn=new A.Q("Un d\xeda de cine, una bolsa de patatas a media tarde\u2026 Ap\xfantalo sin culpa: lo importante es saber cu\xe1nto suma. Son raciones habituales, aproximadas.",null,B.b4,null,null,null,null,null,null,null)
+B.bzo=new A.Q("\xbfVolver a la rutina original?",null,null,null,null,null,null,null,null,null)
+B.bzp=new A.Q("Por qu\xe9 esta",null,B.e8,null,null,null,null,null,null,null)
+B.bzq=new A.Q("Te damos la bienvenida a FrutiFit",null,B.a2f,B.aI,null,null,null,null,null,null)
+B.bzr=new A.Q("\ud83d\udeb6",null,B.xi,null,null,null,null,null,null,null)
+B.bzs=new A.Q("Si te apetece, sal a caminar 1-2 horas y a\xf1ade una comida extra (un bocadillo o un batido).",null,B.D7,null,null,null,null,null,null,null)
+B.bzt=new A.Q("Ejercicios que trabajan lo mismo. Se mantienen las series y los descansos.",null,B.eu,null,null,null,null,null,null,null)
+B.bzu=new A.Q("Eliminar",null,null,null,null,null,null,null,null,null)
+B.bzw=new A.Q("M\xfasculos de esta semana",null,B.cP,null,null,null,null,null,null,null)
+B.bzx=new A.Q("Eliminar",null,B.o1,null,null,null,null,null,null,null)
+B.bzz=new A.Q("A\xf1adir otra comida",null,null,null,null,null,null,null,null,null)
 B.a2t=new A.p(!0,B.b0,null,null,null,null,12,B.S,null,0.8,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.bzB=new A.Q("HOY",null,B.a2t,null,null,null,null,null,null,null)
-B.bzC=new A.Q("\xbfRestaurar esta copia?",null,null,null,null,null,null,null,null,null)
-B.bzD=new A.Q("\xbfTe apetece otra cosa? Cambiar comida",null,B.ay,null,null,null,null,null,null,null)
-B.bzE=new A.Q("A\xf1adir algo que he comido",null,B.ay,null,null,null,null,null,null,null)
-B.bzF=new A.Q("Caminar",null,B.bV,null,null,null,null,null,null,null)
-B.bzG=new A.Q("IDEAS QUE TE ACERCAN AL OBJETIVO",null,B.a2b,null,null,null,null,null,null,null)
-B.bzH=new A.Q("Perder\xe1s los cambios de esta rutina.",null,null,null,null,null,null,null,null,null)
-B.bzK=new A.Q("Secci\xf3n (se elige sola al escribir)",null,B.xc,null,null,null,null,null,null,null)
-B.bzL=new A.Q("Con esto calculo tus calor\xedas y tu prote\xedna, y ajusto las raciones del men\xfa. Puedes cambiarlo cuando quieras en Ajustes.",null,B.dR,null,null,null,null,null,null,null)
-B.bzN=new A.Q("\xbfQu\xe9 otro d\xeda?",null,B.bU,null,null,null,null,null,null,null)
-B.bzO=new A.Q("A\xfan no hay registros. En el entreno guiado apunta los kilos y las repeticiones de cada serie y aqu\xed ver\xe1s c\xf3mo mejoras.",null,B.dR,null,null,null,null,null,null,null)
-B.bzP=new A.Q("ESTA SEMANA",null,B.a2t,null,null,null,null,null,null,null)
-B.bzQ=new A.Q("\xbfBorrar todo lo apuntado?",null,null,null,null,null,null,null,null,null)
-B.bzR=new A.Q("A\xf1adir los ingredientes a la compra",null,null,null,null,null,null,null,null,null)
-B.bzS=new A.Q("Suma sus calor\xedas y su prote\xedna a las de hoy.",null,B.b4,null,null,null,null,null,null,null)
-B.bzT=new A.Q("O toca lo que tienes (toca dos veces para doble raci\xf3n):",null,B.aJ,null,null,null,null,null,null,null)
-B.bzU=new A.Q("Puedes cambiarlo en Ajustes \u203a Mis objetivos.",null,B.aJ,null,null,null,null,null,null,null)
-B.bzW=new A.Q("Toca un ejercicio para ir a \xe9l.",null,B.b4,null,null,null,null,null,null,null)
+B.bzA=new A.Q("HOY",null,B.a2t,null,null,null,null,null,null,null)
+B.bzB=new A.Q("\xbfRestaurar esta copia?",null,null,null,null,null,null,null,null,null)
+B.bzC=new A.Q("\xbfTe apetece otra cosa? Cambiar comida",null,B.ay,null,null,null,null,null,null,null)
+B.bzD=new A.Q("A\xf1adir algo que he comido",null,B.ay,null,null,null,null,null,null,null)
+B.bzE=new A.Q("Caminar",null,B.bV,null,null,null,null,null,null,null)
+B.bzF=new A.Q("IDEAS QUE TE ACERCAN AL OBJETIVO",null,B.a2b,null,null,null,null,null,null,null)
+B.bzG=new A.Q("Perder\xe1s los cambios de esta rutina.",null,null,null,null,null,null,null,null,null)
+B.bzJ=new A.Q("Secci\xf3n (se elige sola al escribir)",null,B.xc,null,null,null,null,null,null,null)
+B.bzK=new A.Q("Con esto calculo tus calor\xedas y tu prote\xedna, y ajusto las raciones del men\xfa. Puedes cambiarlo cuando quieras en Ajustes.",null,B.dR,null,null,null,null,null,null,null)
+B.bzM=new A.Q("\xbfQu\xe9 otro d\xeda?",null,B.bU,null,null,null,null,null,null,null)
+B.bzN=new A.Q("A\xfan no hay registros. En el entreno guiado apunta los kilos y las repeticiones de cada serie y aqu\xed ver\xe1s c\xf3mo mejoras.",null,B.dR,null,null,null,null,null,null,null)
+B.bzO=new A.Q("ESTA SEMANA",null,B.a2t,null,null,null,null,null,null,null)
+B.bzP=new A.Q("\xbfBorrar todo lo apuntado?",null,null,null,null,null,null,null,null,null)
+B.bzQ=new A.Q("A\xf1adir los ingredientes a la compra",null,null,null,null,null,null,null,null,null)
+B.bzR=new A.Q("Suma sus calor\xedas y su prote\xedna a las de hoy.",null,B.b4,null,null,null,null,null,null,null)
+B.bzS=new A.Q("O toca lo que tienes (toca dos veces para doble raci\xf3n):",null,B.aJ,null,null,null,null,null,null,null)
+B.bzT=new A.Q("Puedes cambiarlo en Ajustes \u203a Mis objetivos.",null,B.aJ,null,null,null,null,null,null,null)
+B.bzV=new A.Q("Toca un ejercicio para ir a \xe9l.",null,B.b4,null,null,null,null,null,null,null)
 B.o4=new A.Q("Borrar",null,B.o1,null,null,null,null,null,null,null)
-B.bzY=new A.Q("Record\xe1rmelo",null,B.b8,null,null,null,null,null,null,null)
-B.bzZ=new A.Q("Ejercicios",null,null,null,null,null,null,null,null,null)
-B.bA_=new A.Q(u.at,null,B.a2u,B.aI,null,null,null,null,null,null)
-B.bA1=new A.Q("Salir a caminar",null,B.cP,null,null,null,null,null,null,null)
-B.bA2=new A.Q("\xbfEn qu\xe9 lista lo guardas?",null,B.bU,null,null,null,null,null,null,null)
+B.bzX=new A.Q("Record\xe1rmelo",null,B.b8,null,null,null,null,null,null,null)
+B.bzY=new A.Q("Ejercicios",null,null,null,null,null,null,null,null,null)
+B.bzZ=new A.Q(u.at,null,B.a2u,B.aI,null,null,null,null,null,null)
+B.bA0=new A.Q("Salir a caminar",null,B.cP,null,null,null,null,null,null,null)
+B.bA1=new A.Q("\xbfEn qu\xe9 lista lo guardas?",null,B.bU,null,null,null,null,null,null,null)
 B.a2B=new A.Q("Vale",null,null,null,null,null,null,null,null,null)
-B.bA3=new A.Q("Se sustituye todo lo que hay ahora en la app por lo de la copia.",null,null,null,null,null,null,null,null,null)
-B.bA4=new A.Q("Con dos pesajes ver\xe1s aqu\xed tu evoluci\xf3n. P\xe9sate una vez por semana, el mismo d\xeda y en ayunas.",null,B.eu,null,null,null,null,null,null,null)
+B.bA2=new A.Q("Se sustituye todo lo que hay ahora en la app por lo de la copia.",null,null,null,null,null,null,null,null,null)
+B.bA3=new A.Q("Con dos pesajes ver\xe1s aqu\xed tu evoluci\xf3n. P\xe9sate una vez por semana, el mismo d\xeda y en ayunas.",null,B.eu,null,null,null,null,null,null,null)
 B.btZ=new A.p(!0,B.q,null,null,null,null,null,B.aj,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.a2C=new A.Q("Mis caminatas",null,B.btZ,null,null,null,null,null,null,null)
-B.bA7=new A.Q("Cada vez que te pesas, recalculo tus calor\xedas y prote\xedna con tu peso nuevo y con c\xf3mo vas: si no avanzas, lo ajusto un poco.",null,null,null,null,null,null,null,null,null)
-B.bA8=new A.Q("\xbfEn qu\xe9 comida de hoy?",null,B.bU,null,null,null,null,null,null,null)
-B.bA9=new A.Q("Comida libre o gen\xe9rica",null,B.bU,null,null,null,null,null,null,null)
-B.bAc=new A.Q("Tipo de prote\xedna",null,B.ay,null,null,null,null,null,null,null)
-B.bAe=new A.Q("C\xe1lculo orientativo (f\xf3rmula de Mifflin-St Jeor seg\xfan la actividad). No sustituye el consejo de un m\xe9dico o nutricionista. Si est\xe1s embarazada, das el pecho o tienes alguna enfermedad, cons\xfaltalo antes de cambiar tu dieta.",null,B.bk,B.aI,null,null,null,null,null,null)
-B.bAf=new A.Q("Orientativo: comprueba la marca y el formato en tu tienda.",null,B.bk,null,null,null,null,null,null,null)
-B.bAg=new A.Q("FrutiFit te dir\xe1 cu\xe1nta te toca cada d\xeda seg\xfan tu peso",null,null,null,null,null,null,null,null,null)
-B.bAh=new A.Q("\xbfQui\xe9n usa FrutiFit?",null,B.bU,null,null,null,null,null,null,null)
-B.bAi=new A.Q("Ajustar mi objetivo solo",null,B.ay,null,null,null,null,null,null,null)
+B.bA6=new A.Q("Cada vez que te pesas, recalculo tus calor\xedas y prote\xedna con tu peso nuevo y con c\xf3mo vas: si no avanzas, lo ajusto un poco.",null,null,null,null,null,null,null,null,null)
+B.bA7=new A.Q("\xbfEn qu\xe9 comida de hoy?",null,B.bU,null,null,null,null,null,null,null)
+B.bA8=new A.Q("Comida libre o gen\xe9rica",null,B.bU,null,null,null,null,null,null,null)
+B.bAb=new A.Q("Tipo de prote\xedna",null,B.ay,null,null,null,null,null,null,null)
+B.bAd=new A.Q("C\xe1lculo orientativo (f\xf3rmula de Mifflin-St Jeor seg\xfan la actividad). No sustituye el consejo de un m\xe9dico o nutricionista. Si est\xe1s embarazada, das el pecho o tienes alguna enfermedad, cons\xfaltalo antes de cambiar tu dieta.",null,B.bk,B.aI,null,null,null,null,null,null)
+B.bAe=new A.Q("Orientativo: comprueba la marca y el formato en tu tienda.",null,B.bk,null,null,null,null,null,null,null)
+B.bAf=new A.Q("FrutiFit te dir\xe1 cu\xe1nta te toca cada d\xeda seg\xfan tu peso",null,null,null,null,null,null,null,null,null)
+B.bAg=new A.Q("\xbfQui\xe9n usa FrutiFit?",null,B.bU,null,null,null,null,null,null,null)
+B.bAh=new A.Q("Ajustar mi objetivo solo",null,B.ay,null,null,null,null,null,null,null)
 B.bs6=new A.p(!0,null,null,null,null,null,32,B.ad,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.bAj=new A.Q("\xa1Entreno completado!",null,B.bs6,B.aI,null,null,null,null,null,null)
+B.bAi=new A.Q("\xa1Entreno completado!",null,B.bs6,B.aI,null,null,null,null,null,null)
 B.bvt=new A.p(!0,null,null,null,null,null,14,B.S,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.bAk=new A.Q(u.at,null,B.bvt,B.aI,null,null,null,null,null,null)
-B.bAl=new A.Q("\ud83c\udfc6",null,B.Dc,null,null,null,null,null,null,null)
+B.bAj=new A.Q(u.at,null,B.bvt,B.aI,null,null,null,null,null,null)
+B.bAk=new A.Q("\ud83c\udfc6",null,B.Dc,null,null,null,null,null,null,null)
 B.dc=new A.Q("Cancelar",null,null,null,null,null,null,null,null,null)
+B.bsY=new A.p(!0,B.W,null,null,null,null,10,B.dz,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.bAl=new A.Q("v1.64.2",null,B.bsY,null,null,null,null,null,null,null)
 B.bAm=new A.Q("Salir",null,B.o1,null,null,null,null,null,null,null)
 B.bAn=new A.Q("Toca un plato para cambiarlo o ver su receta.",null,B.xh,null,null,null,null,null,null,null)
 B.bAo=new A.Q("Los de Google Drive",null,null,null,null,null,null,null,null,null)
