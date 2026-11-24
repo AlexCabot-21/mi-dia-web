@@ -42,7 +42,14 @@ _flutter.buildConfig = {"engineRevision":"a804b261645ef8c13eb3d5c44a5c2fb0340c55
 
 
 // Sin el service worker de Flutter: usamos sw.js (funciona sin conexión).
-_flutter.loader.load();
+// Los emojis (🍎, 🛒…) se bajan de las fuentes de Google la primera vez y sw.js
+// los guarda para usarlos sin conexión. Sin esto salen como cuadraditos.
+_flutter.loader.load({
+  config: {
+    fontFallbackBaseUrl: 'https://fonts.gstatic.com/s/',
+    useColorEmoji: true,
+  },
+});
 
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', function () {
